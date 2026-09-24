@@ -30,17 +30,17 @@ describe('index.js Component Tests', () => {
 
     it('should keep company uppercase', () => {
       const payload = {
-        source: 'epam.com',
-        company: 'epam systems international srl',
-        cif: '33159615',
+        source: 'smartrecruiters.com',
+        company: 'robert bosch srl',
+        cif: '5541546',
         jobs: [
-          { url: 'https://test.com/1', title: 'Job 1', company: 'epam systems', cif: '33159615' }
+          { url: 'https://test.com/1', title: 'Job 1', company: 'robert bosch', cif: '5541546' }
         ]
       };
 
       const result = index.transformJobsForSOLR(payload);
 
-      expect(result.company).toBe('EPAM SYSTEMS INTERNATIONAL SRL');
+      expect(result.company).toBe('ROBERT BOSCH SRL');
     });
 
     it('should normalize workmode values', () => {
@@ -70,15 +70,15 @@ describe('index.js Component Tests', () => {
   describe('mapToJobModel', () => {
     it('should map raw job to job model format', () => {
       const rawJob = {
-        url: 'https://careers.epam.com/job/123',
+        url: 'https://jobs.smartrecruiters.com/BoschGroup/123-senior-developer',
         title: 'Senior Developer',
         location: ['Bucharest'],
-        tags: ['Java', 'Spring'],
+        tags: ['information-technology', 'engineering'],
         workmode: 'hybrid'
       };
 
-      const COMPANY_NAME = 'EPAM SYSTEMS INTERNATIONAL SRL';
-      const COMPANY_CIF = '33159615';
+      const COMPANY_NAME = 'ROBERT BOSCH SRL';
+      const COMPANY_CIF = '5541546';
 
       const result = index.mapToJobModel(rawJob, COMPANY_CIF, COMPANY_NAME);
 
@@ -99,7 +99,7 @@ describe('index.js Component Tests', () => {
         title: 'Job 1'
       };
 
-      const result = index.mapToJobModel(rawJob, '33159615');
+      const result = index.mapToJobModel(rawJob, '5541546');
 
       expect(result.location).toBeUndefined();
       expect(result.tags).toBeUndefined();
@@ -109,7 +109,7 @@ describe('index.js Component Tests', () => {
     it('should handle missing title', () => {
       const rawJob = { url: 'https://test.com/1' };
 
-      const result = index.mapToJobModel(rawJob, '33159615');
+      const result = index.mapToJobModel(rawJob, '5541546');
 
       expect(result.title).toBeUndefined();
       expect(result.url).toBe('https://test.com/1');
@@ -117,104 +117,108 @@ describe('index.js Component Tests', () => {
   });
 
   describe('parseApiJobs', () => {
-    it('should parse EPAM API response format', () => {
+    it('should parse SmartRecruiters API response format', () => {
       const apiData = {
-        data: {
-          total: 100,
-          jobs: [
-            {
-              uid: '123',
-              name: 'Senior Developer',
-              city: [{ name: 'Bucharest' }],
-              country: [{ name: 'Romania' }],
-              vacancy_type: 'Hybrid',
-              skills: ['Java', 'Spring']
-            }
-          ]
-        }
+        totalFound: 66,
+        content: [
+          {
+            id: '123',
+            name: 'Senior Developer',
+            location: { city: 'Cluj-Napoca', country: 'ro', hybrid: true },
+            industry: { label: 'Information Technology And Services' },
+            function: { label: 'Information Technology' }
+          }
+        ]
       };
 
       const result = index.parseApiJobs(apiData);
 
-      expect(result.jobs).toHaveLength(1);
-      expect(result.jobs[0].title).toBe('Senior Developer');
-      expect(result.jobs[0].location).toEqual(['Bucharest']);
-      expect(result.jobs[0].workmode).toBe('hybrid');
+      expect(result).toHaveLength(1);
+      expect(result[0].title).toBe('Senior Developer');
+      expect(result[0].location).toEqual(['Cluj-Napoca']);
+      expect(result[0].workmode).toBe('hybrid');
+      expect(result[0].tags).toEqual(['information-technology-and-services', 'information-technology']);
     });
 
-    it('should handle empty job list', () => {
-      const apiData = { data: { total: 0, jobs: [] } };
+    it('should filter out non-Romania jobs', () => {
+      const apiData = {
+        totalFound: 1,
+        content: [
+          { id: '1', name: 'Job DE', location: { city: 'Stuttgart', country: 'de' } }
+        ]
+      };
 
       const result = index.parseApiJobs(apiData);
 
-      expect(result.jobs).toEqual([]);
+      expect(result).toEqual([]);
     });
 
-    it('should handle missing data field', () => {
+    it('should handle empty content list', () => {
+      const apiData = { totalFound: 0, content: [] };
+
+      const result = index.parseApiJobs(apiData);
+
+      expect(result).toEqual([]);
+    });
+
+    it('should handle missing content field', () => {
       const result = index.parseApiJobs({});
 
-      expect(result.jobs).toEqual([]);
+      expect(result).toEqual([]);
     });
 
-    it('should handle multiple cities', () => {
+    it('should default to on-site when neither remote nor hybrid is set', () => {
       const apiData = {
-        data: {
-          total: 1,
-          jobs: [
-            {
-              uid: '123',
-              name: 'Developer',
-              city: [{ name: 'Bucharest' }, { name: 'Cluj-Napoca' }],
-              country: [{ name: 'Romania' }]
-            }
-          ]
-        }
+        totalFound: 1,
+        content: [
+          { id: '1', name: 'Office Job', location: { city: 'București', country: 'ro' } }
+        ]
       };
 
       const result = index.parseApiJobs(apiData);
 
-      expect(result.jobs[0].location).toEqual(['Bucharest', 'Cluj-Napoca']);
+      expect(result[0].workmode).toBe('on-site');
+    });
+
+    it('should mark remote jobs correctly', () => {
+      const apiData = {
+        totalFound: 1,
+        content: [
+          { id: '1', name: 'Remote Job', location: { city: 'Timișoara', country: 'ro', remote: true } }
+        ]
+      };
+
+      const result = index.parseApiJobs(apiData);
+
+      expect(result[0].workmode).toBe('remote');
     });
   });
 
   describe('URL Generation', () => {
-    it('should use seo.url when available', () => {
+    it('should build a slugified URL from job id and name', () => {
       const apiData = {
-        data: {
-          total: 1,
-          jobs: [
-            {
-              uid: 'blt123',
-              name: 'Test Job',
-              seo: { url: '/en/vacancy/test-job-blt123_en' },
-              city: [{ name: 'Bucharest' }]
-            }
-          ]
-        }
+        totalFound: 1,
+        content: [
+          { id: '744000151302709', name: 'SAP Cutover Manager', location: { city: 'Timișoara', country: 'ro' } }
+        ]
       };
 
       const result = index.parseApiJobs(apiData);
 
-      expect(result.jobs[0].url).toBe('https://careers.epam.com/en/vacancy/test-job-blt123_en');
+      expect(result[0].url).toBe('https://jobs.smartrecruiters.com/BoschGroup/744000151302709-sap-cutover-manager');
     });
 
-    it('should fallback to uid-based URL when no seo.url', () => {
+    it('should fall back to id-only URL when name is missing', () => {
       const apiData = {
-        data: {
-          total: 1,
-          jobs: [
-            {
-              uid: 'blt456',
-              name: 'Test Job',
-              city: [{ name: 'Bucharest' }]
-            }
-          ]
-        }
+        totalFound: 1,
+        content: [
+          { id: '999', location: { city: 'București', country: 'ro' } }
+        ]
       };
 
       const result = index.parseApiJobs(apiData);
 
-      expect(result.jobs[0].url).toBe('https://careers.epam.com/en/vacancy/blt456_en');
+      expect(result[0].url).toBe('https://jobs.smartrecruiters.com/BoschGroup/999');
     });
   });
 });

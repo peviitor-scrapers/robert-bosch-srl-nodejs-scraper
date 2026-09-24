@@ -8,11 +8,11 @@ import companyConfig from "./config/company.js";
 import scraperConfig from "./config/scraper.js";
 
 const COMPANY_CIF = companyConfig.id;
-const JOB_BASE = scraperConfig.apiBase;
-const ROMANIA_COUNTRY_ID = scraperConfig.apiCountryId;
+const SMART_RECRUITERS_URL = scraperConfig.smartRecruitersUrl;
+const PAGE_SIZE = scraperConfig.pageSize;
+const MAX_PAGES = scraperConfig.maxPages;
 
 const TIMEOUT = 10000;
-const PAGE_SIZE = 10;
 
 let COMPANY_NAME = null;
 
@@ -59,84 +59,82 @@ async function searchANOFM(cif) {
   return jobs;
 }
 
-async function fetchJobsPage(pageNum) {
-  const from = (pageNum - 1) * PAGE_SIZE;
-  const url = `${JOB_BASE}/api/jobs/v2/search/careers-i18n?from=${from}&lang=en&size=${PAGE_SIZE}&sortBy=relevance%3Brelocation%3Dasc&websiteLocale=en-us&facets=country%3D${ROMANIA_COUNTRY_ID}`;
+function parseApiJobs(apiData) {
+  const jobs = [];
+  if (!apiData || !apiData.content) return jobs;
+
+  for (const job of apiData.content) {
+    const uid = job.id || job.uuid;
+    const city = job.location?.city || '';
+    const country = job.location?.country || '';
+
+    if (country !== 'ro') continue;
+
+    let workmode = "on-site";
+    if (job.location?.remote === true) workmode = "remote";
+    else if (job.location?.hybrid === true) workmode = "hybrid";
+
+    const tags = [];
+    if (job.industry?.label) {
+      tags.push(job.industry.label.toLowerCase().replace(/\s+or\s+/g, '-').replace(/\s+/g, '-'));
+    }
+    if (job.function?.label) {
+      tags.push(job.function.label.toLowerCase().replace(/\s+/g, '-'));
+    }
+
+    const nameSlug = (job.name || '')
+      .toLowerCase()
+      .replace(/\s+/g, '-')
+      .replace(/[^a-z0-9-]/g, '')
+      .replace(/-+/g, '-')
+      .replace(/^-|-$/g, '');
+    const url = `https://jobs.smartrecruiters.com/BoschGroup/${uid}${nameSlug ? '-' + nameSlug : ''}`;
+
+    jobs.push({
+      url,
+      title: job.name || '',
+      uid,
+      workmode,
+      location: city ? [city] : [],
+      tags
+    });
+  }
+
+  return jobs;
+}
+
+async function fetchJobsPage(offset) {
+  const url = `${SMART_RECRUITERS_URL}?country=ro&limit=${PAGE_SIZE}&offset=${offset}`;
 
   const res = await fetch(url, {
+    method: "GET",
     headers: {
       "User-Agent": "job_seeker_ro_spider",
       "Accept": "application/json"
-    }
+    },
+    signal: AbortSignal.timeout(TIMEOUT)
   });
 
   if (!res.ok) {
-    throw new Error(`API error ${res.status} for page=${pageNum}`);
+    throw new Error(`SmartRecruiters API error ${res.status} for offset=${offset}`);
   }
 
   return await res.json();
 }
 
-function parseApiJobs(apiData) {
-  const jobs = apiData.data?.jobs || [];
-  const total = apiData.data?.total || 0;
-
-  return {
-    jobs: jobs.map(job => {
-      const vacancyType = job.vacancy_type || "Hybrid";
-      let workmode = "hybrid";
-      if (vacancyType.toLowerCase().includes("remote")) workmode = "remote";
-      else if (vacancyType.toLowerCase().includes("office")) workmode = "on-site";
-
-      const location = [];
-      if (job.city && job.city.length > 0) {
-        for (const c of job.city) {
-          if (c.name) location.push(c.name);
-        }
-      } else if (job.country?.[0]?.name) {
-        location.push(job.country[0].name);
-      }
-
-      const uid = job.uid || "";
-      const seoUrl = job.seo?.url || `/en/vacancy/${uid}_en`;
-      const url = seoUrl.startsWith('http') ? seoUrl : `${JOB_BASE}${seoUrl}`;
-
-      const tags = (job.skills || []).map(s => s.toLowerCase());
-
-      return {
-        url,
-        title: job.name,
-        uid: job.uid,
-        workmode,
-        location,
-        tags
-      };
-    }),
-    total
-  };
-}
-
-async function scrapeAllListings(testOnlyOnePage = false) {
+async function scrapeAllListings() {
   const allJobs = [];
   const seenUrls = new Set();
-  let page = 1;
-  let totalJobs = 0;
-  const MAX_PAGES = 10;
+  let offset = 0;
 
-  while (true) {
-    console.log(`Fetching API page: ${page}`);
-    const data = await fetchJobsPage(page);
-    const result = parseApiJobs(data);
-    const jobs = result.jobs;
+  for (let page = 0; page < MAX_PAGES; page++) {
+    console.log(`Fetching API offset: ${offset}`);
+    const data = await fetchJobsPage(offset);
+    const jobs = parseApiJobs(data);
 
-    if (!jobs.length) {
-      console.log(`No jobs found on page ${page}, stopping.`);
+    if (jobs.length === 0) {
+      console.log(`No jobs found at offset ${offset}, stopping.`);
       break;
-    }
-
-    if (page === 1) {
-      totalJobs = result.total;
-      console.log(`Total jobs on site: ${totalJobs}`);
     }
 
     let newJobs = 0;
@@ -147,24 +145,14 @@ async function scrapeAllListings(testOnlyOnePage = false) {
         newJobs++;
       }
     }
-    console.log(`Page ${page}: ${jobs.length} jobs, ${newJobs} new (total: ${allJobs.length})`);
+    console.log(`Offset ${offset}: ${jobs.length} jobs, ${newJobs} new (total: ${allJobs.length})`);
 
-    if (testOnlyOnePage) {
-      console.log("Test mode: stopping after page 1.");
+    if (offset + PAGE_SIZE >= (data.totalFound || 0)) {
+      console.log("Reached end of listings, stopping.");
       break;
     }
 
-    if (page >= MAX_PAGES) {
-      console.log(`Max pages (${MAX_PAGES}) reached, stopping.`);
-      break;
-    }
-
-    if (newJobs === 0) {
-      console.log(`No new jobs on page ${page}, stopping.`);
-      break;
-    }
-
-    page += 1;
+    offset += PAGE_SIZE;
     await sleep(1000);
   }
 
@@ -277,9 +265,9 @@ async function main() {
       console.log(`Note: Could not upsert company: ${err.message}`);
     }
 
-    const rawJobs = await scrapeAllListings(testOnlyOnePage);
+    const rawJobs = await scrapeAllListings();
     const scrapedCount = rawJobs.length;
-    console.log(`Jobs scraped from EPAM Careers website: ${scrapedCount}`);
+    console.log(`Jobs scraped from SmartRecruiters API: ${scrapedCount}`);
 
     if (!testOnlyOnePage) {
       const anofmJobs = await searchANOFM(cif);
@@ -295,7 +283,7 @@ async function main() {
     const jobs = rawJobs.map(job => mapToJobModel(job, cif));
 
     const payload = {
-      source: "epam.com",
+      source: "smartrecruiters.com",
       scrapedAt: new Date().toISOString(),
       company: COMPANY_NAME,
       cif: cif,
@@ -357,7 +345,7 @@ async function main() {
     const finalResult = await querySOLR(COMPANY_CIF);
     console.log(`\n=== SUMMARY ===`);
     console.log(`Jobs existing in SOLR before scrape: ${existingCount}`);
-    console.log(`Jobs scraped from EPAM website: ${scrapedCount}`);
+    console.log(`Jobs scraped from SmartRecruiters API: ${scrapedCount}`);
     console.log(`Stale jobs attempted: ${staleUrls.length}`);
     console.log(`Jobs in SOLR after scrape: ${finalResult.numFound}`);
     console.log(`====================`);
