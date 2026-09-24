@@ -36,7 +36,7 @@ Proiectul automatizează colectarea zilnică a job-urilor Robert Bosch din Româ
 
 ## License
 
-Copyright (c) 2024-2026 BOGA SEBASTIAN-NICOLAE
+Copyright (c) 2024-2026 ALEXUTAN CRISTIAN
 
 Licensed under the [MIT License](LICENSE).
 
