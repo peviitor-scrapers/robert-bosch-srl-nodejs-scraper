@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-09-24 |
+| Last Scraped | 2026-09-25 |
 
 ## Current Job Listings (66)
 
-_Generated: 2026-09-24T11:00:28.769Z_
+_Generated: 2026-09-25T11:34:17.847Z_
+
+### Scholarship in AI for Master Students
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151808510-scholarship-in-ai-for-master-students](https://jobs.smartrecruiters.com/BoschGroup/744000151808510-scholarship-in-ai-for-master-students)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, information-technology
+- **Status:** scraped
+
+### Software Test Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151771625-software-test-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000151771625-software-test-engineer)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, information-technology
+- **Status:** scraped
 
 ### SAP Cutover Manager
 
@@ -54,14 +70,6 @@ _Generated: 2026-09-24T11:00:28.769Z_
 - **Work Mode:** hybrid
 - **Location:** Timișoara
 - **Tags:** financial-services, business-development
-- **Status:** scraped
-
-### Software Test Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000150350179-software-test-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000150350179-software-test-engineer)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, information-technology
 - **Status:** scraped
 
 ### Customer Sales & Acquisition Controller
@@ -238,14 +246,6 @@ _Generated: 2026-09-24T11:00:28.769Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, supply-chain
-- **Status:** scraped
-
-### Supplier Quality Engineer - Machined Parts
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000146170459-supplier-quality-engineer-machined-parts](https://jobs.smartrecruiters.com/BoschGroup/744000146170459-supplier-quality-engineer-machined-parts)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, engineering
 - **Status:** scraped
 
 ### Senior Product Design Engineer 
