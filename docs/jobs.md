@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-09-25 |
+| Last Scraped | 2026-09-26 |
 
-## Current Job Listings (66)
+## Current Job Listings (68)
 
-_Generated: 2026-09-25T11:34:17.847Z_
+_Generated: 2026-09-26T11:11:02.305Z_
+
+### Working Student Data Engineering
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151876276-working-student-data-engineering](https://jobs.smartrecruiters.com/BoschGroup/744000151876276-working-student-data-engineering)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, information-technology
+- **Status:** scraped
+
+### Data Engineer for Connected Services
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151878029-data-engineer-for-connected-services](https://jobs.smartrecruiters.com/BoschGroup/744000151878029-data-engineer-for-connected-services)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, information-technology
+- **Status:** scraped
 
 ### Scholarship in AI for Master Students
 
