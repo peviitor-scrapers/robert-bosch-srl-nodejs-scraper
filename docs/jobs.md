@@ -7,14 +7,14 @@
 | CIF | 5541546 |
 | Brand | Robert Bosch |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
+| Location | București |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-09-26 |
+| Last Scraped | 2026-09-27 |
 
 ## Current Job Listings (68)
 
-_Generated: 2026-09-26T11:11:02.305Z_
+_Generated: 2026-09-27T11:47:06.679Z_
 
 ### Working Student Data Engineering
 
