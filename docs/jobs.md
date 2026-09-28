@@ -7,14 +7,14 @@
 | CIF | 5541546 |
 | Brand | Robert Bosch |
 | Status | activ |
-| Location | București |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-09-27 |
+| Last Scraped | 2026-09-28 |
 
-## Current Job Listings (68)
+## Current Job Listings (67)
 
-_Generated: 2026-09-27T11:47:06.679Z_
+_Generated: 2026-09-28T13:28:52.886Z_
 
 ### Working Student Data Engineering
 
@@ -499,14 +499,6 @@ _Generated: 2026-09-27T11:47:06.679Z_
 ### SAP Intralogistics To Demand Consultant
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000136412550-sap-intralogistics-to-demand-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000136412550-sap-intralogistics-to-demand-consultant)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### SAP EWM Rollout Consultant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000135501780-sap-ewm-rollout-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000135501780-sap-ewm-rollout-consultant)
 - **Work Mode:** remote
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, information-technology
