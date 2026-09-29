@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-09-28 |
+| Last Scraped | 2026-09-29 |
 
-## Current Job Listings (67)
+## Current Job Listings (70)
 
-_Generated: 2026-09-28T13:28:52.886Z_
+_Generated: 2026-09-29T12:32:12.341Z_
+
+### Executive Assistant
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152401120-executive-assistant](https://jobs.smartrecruiters.com/BoschGroup/744000152401120-executive-assistant)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-services, administrative
+- **Status:** scraped
+
+### Manufacturing Technician MFE4.1
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152375498-manufacturing-technician-mfe41](https://jobs.smartrecruiters.com/BoschGroup/744000152375498-manufacturing-technician-mfe41)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, manufacturing
+- **Status:** scraped
+
+### Working Student - Commercial Assistant
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152334250-working-student-commercial-assistant](https://jobs.smartrecruiters.com/BoschGroup/744000152334250-working-student-commercial-assistant)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, engineering
+- **Status:** scraped
+
+### Working Student Electrical Calibration
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152220817-working-student-electrical-calibration](https://jobs.smartrecruiters.com/BoschGroup/744000152220817-working-student-electrical-calibration)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, engineering
+- **Status:** scraped
 
 ### Working Student Data Engineering
 
@@ -86,14 +118,6 @@ _Generated: 2026-09-28T13:28:52.886Z_
 - **Work Mode:** hybrid
 - **Location:** Timișoara
 - **Tags:** financial-services, business-development
-- **Status:** scraped
-
-### Customer Sales & Acquisition Controller
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000150340102-customer-sales-acquisition-controller](https://jobs.smartrecruiters.com/BoschGroup/744000150340102-customer-sales-acquisition-controller)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
 - **Status:** scraped
 
 ### Working Student in Sales Planning
