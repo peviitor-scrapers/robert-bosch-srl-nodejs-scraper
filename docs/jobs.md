@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-01 |
+| Last Scraped | 2026-10-02 |
 
-## Current Job Listings (73)
+## Current Job Listings (74)
 
-_Generated: 2026-10-01T12:52:20.701Z_
+_Generated: 2026-10-02T12:14:51.600Z_
+
+### Controller in Customer Team
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000153110701-controller-in-customer-team](https://jobs.smartrecruiters.com/BoschGroup/744000153110701-controller-in-customer-team)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
 
 ### Business Developer Accessories 
 
@@ -389,7 +397,7 @@ _Generated: 2026-10-01T12:52:20.701Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145459389-it-landscape-management-and-software-licensing-specialist](https://jobs.smartrecruiters.com/BoschGroup/744000145459389-it-landscape-management-and-software-licensing-specialist)
 - **Work Mode:** hybrid
 - **Location:** Timișoara
-- **Tags:** information-technology-and-services, finance
+- **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
 ### SAP Intralogistics to Demand Technical Consultant
