@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-02 |
+| Last Scraped | 2026-10-03 |
 
 ## Current Job Listings (74)
 
-_Generated: 2026-10-02T12:14:51.600Z_
+_Generated: 2026-10-03T11:25:59.929Z_
+
+### Working Student in Verification & Validation & Test Automation
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000153182257-working-student-in-verification-validation-test-automation](https://jobs.smartrecruiters.com/BoschGroup/744000153182257-working-student-in-verification-validation-test-automation)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
 
 ### Controller in Customer Team
 
@@ -438,14 +446,6 @@ _Generated: 2026-10-02T12:14:51.600Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** information-services, engineering
-- **Status:** scraped
-
-### Working Student in Verification & Validation & Test Automation
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000144761321-working-student-in-verification-validation-test-automation](https://jobs.smartrecruiters.com/BoschGroup/744000144761321-working-student-in-verification-validation-test-automation)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
 ### Working Student in Embedded Software Development - High Level
