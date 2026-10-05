@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-04 |
+| Last Scraped | 2026-10-05 |
 
-## Current Job Listings (74)
+## Current Job Listings (70)
 
-_Generated: 2026-10-04T12:06:56.632Z_
+_Generated: 2026-10-05T14:11:57.677Z_
+
+### Executive Assistant
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000153462865-executive-assistant](https://jobs.smartrecruiters.com/BoschGroup/744000153462865-executive-assistant)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-services, administrative
+- **Status:** scraped
 
 ### Working Student in Verification & Validation & Test Automation
 
@@ -94,30 +102,6 @@ _Generated: 2026-10-04T12:06:56.632Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** automotive, quality-assurance
-- **Status:** scraped
-
-### Executive Assistant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152401120-executive-assistant](https://jobs.smartrecruiters.com/BoschGroup/744000152401120-executive-assistant)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** information-services, administrative
-- **Status:** scraped
-
-### Manufacturing Technician MFE4.1
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152375498-manufacturing-technician-mfe41](https://jobs.smartrecruiters.com/BoschGroup/744000152375498-manufacturing-technician-mfe41)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, manufacturing
-- **Status:** scraped
-
-### Working Student - Commercial Assistant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152334250-working-student-commercial-assistant](https://jobs.smartrecruiters.com/BoschGroup/744000152334250-working-student-commercial-assistant)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, engineering
 - **Status:** scraped
 
 ### Working Student Electrical Calibration
@@ -296,14 +280,6 @@ _Generated: 2026-10-04T12:06:56.632Z_
 - **Tags:** mechanical-industrial-engineering, engineering
 - **Status:** scraped
 
-### Controller in Customer Team
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000148931189-controller-in-customer-team](https://jobs.smartrecruiters.com/BoschGroup/744000148931189-controller-in-customer-team)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
-- **Status:** scraped
-
 ### Mid DevOps Engineer 
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000148780469-mid-devops-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000148780469-mid-devops-engineer)
@@ -451,14 +427,6 @@ _Generated: 2026-10-04T12:06:56.632Z_
 ### Working Student in Embedded Software Development - High Level
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000144766999-working-student-in-embedded-software-development-high-level](https://jobs.smartrecruiters.com/BoschGroup/744000144766999-working-student-in-embedded-software-development-high-level)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### Embedded Software Engineer – ADAS Functions Realization for Driving
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000144766490-embedded-software-engineer-adas-functions-realization-for-driving](https://jobs.smartrecruiters.com/BoschGroup/744000144766490-embedded-software-engineer-adas-functions-realization-for-driving)
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** information-technology-and-services, information-technology
