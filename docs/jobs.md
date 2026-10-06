@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-05 |
+| Last Scraped | 2026-10-06 |
 
-## Current Job Listings (70)
+## Current Job Listings (71)
 
-_Generated: 2026-10-05T14:11:57.677Z_
+_Generated: 2026-10-06T13:08:08.184Z_
+
+### Data Governance Senior
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000153713589-data-governance-senior](https://jobs.smartrecruiters.com/BoschGroup/744000153713589-data-governance-senior)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
+
+### Scholarship in AI for Master Students
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000153669499-scholarship-in-ai-for-master-students](https://jobs.smartrecruiters.com/BoschGroup/744000153669499-scholarship-in-ai-for-master-students)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, information-technology
+- **Status:** scraped
+
+### Automation & Robotics Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000153523769-automation-robotics-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000153523769-automation-robotics-engineer)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, engineering
+- **Status:** scraped
 
 ### Executive Assistant
 
@@ -123,14 +147,6 @@ _Generated: 2026-10-05T14:11:57.677Z_
 ### Data Engineer for Connected Services
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151878029-data-engineer-for-connected-services](https://jobs.smartrecruiters.com/BoschGroup/744000151878029-data-engineer-for-connected-services)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, information-technology
-- **Status:** scraped
-
-### Scholarship in AI for Master Students
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151808510-scholarship-in-ai-for-master-students](https://jobs.smartrecruiters.com/BoschGroup/744000151808510-scholarship-in-ai-for-master-students)
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** automotive, information-technology
@@ -534,14 +550,6 @@ _Generated: 2026-10-05T14:11:57.677Z_
 - **Work Mode:** hybrid
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### PhD Scholarship in Software and Hardware
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000133901519-phd-scholarship-in-software-and-hardware](https://jobs.smartrecruiters.com/BoschGroup/744000133901519-phd-scholarship-in-software-and-hardware)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, other
 - **Status:** scraped
 
 ### Working Student in Controlling Area
