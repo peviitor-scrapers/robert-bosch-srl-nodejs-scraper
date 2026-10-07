@@ -10,11 +10,51 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-06 |
+| Last Scraped | 2026-10-07 |
 
-## Current Job Listings (71)
+## Current Job Listings (74)
 
-_Generated: 2026-10-06T13:08:08.184Z_
+_Generated: 2026-10-07T13:02:44.165Z_
+
+### Manufacturing Technician MFE3.1
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154063020-manufacturing-technician-mfe31](https://jobs.smartrecruiters.com/BoschGroup/744000154063020-manufacturing-technician-mfe31)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, manufacturing
+- **Status:** scraped
+
+### Test Technician QMM-L1
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154026682-test-technician-qmm-l1](https://jobs.smartrecruiters.com/BoschGroup/744000154026682-test-technician-qmm-l1)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, other
+- **Status:** scraped
+
+### Manufacturing Technician MFO4.2
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154025699-manufacturing-technician-mfo42](https://jobs.smartrecruiters.com/BoschGroup/744000154025699-manufacturing-technician-mfo42)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, manufacturing
+- **Status:** scraped
+
+### Working Student – Technical Project Administration
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154009469-working-student-technical-project-administration](https://jobs.smartrecruiters.com/BoschGroup/744000154009469-working-student-technical-project-administration)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, project-management
+- **Status:** scraped
+
+### Working Student – Line Engineering Support
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154007331-working-student-line-engineering-support](https://jobs.smartrecruiters.com/BoschGroup/744000154007331-working-student-line-engineering-support)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, manufacturing
+- **Status:** scraped
 
 ### Data Governance Senior
 
@@ -328,14 +368,6 @@ _Generated: 2026-10-06T13:08:08.184Z_
 - **Tags:** mechanical-industrial-engineering, engineering
 - **Status:** scraped
 
-### Product Management Support Junior
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000148142065-product-management-support-junior](https://jobs.smartrecruiters.com/BoschGroup/744000148142065-product-management-support-junior)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** computer-software, product-management
-- **Status:** scraped
-
 ### Working Student Industrial Engineering 
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000147955469-working-student-industrial-engineering](https://jobs.smartrecruiters.com/BoschGroup/744000147955469-working-student-industrial-engineering)
@@ -438,14 +470,6 @@ _Generated: 2026-10-06T13:08:08.184Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** information-services, engineering
-- **Status:** scraped
-
-### Working Student in Embedded Software Development - High Level
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000144766999-working-student-in-embedded-software-development-high-level](https://jobs.smartrecruiters.com/BoschGroup/744000144766999-working-student-in-embedded-software-development-high-level)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
 ### Product Sales Specialist with Hungarian
