@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-07 |
+| Last Scraped | 2026-10-08 |
 
-## Current Job Listings (74)
+## Current Job Listings (75)
 
-_Generated: 2026-10-07T13:02:44.165Z_
+_Generated: 2026-10-08T13:10:00.907Z_
+
+### Back Office Agent
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154423759-back-office-agent](https://jobs.smartrecruiters.com/BoschGroup/744000154423759-back-office-agent)
+- **Work Mode:** on-site
+- **Location:** Timișoara
+- **Tags:** computer-and-network-security, information-technology
+- **Status:** scraped
+
+### Working Student Spare Parts Planning
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154361569-working-student-spare-parts-planning](https://jobs.smartrecruiters.com/BoschGroup/744000154361569-working-student-spare-parts-planning)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, engineering
+- **Status:** scraped
+
+### SAP Key User
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154348709-sap-key-user](https://jobs.smartrecruiters.com/BoschGroup/744000154348709-sap-key-user)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, information-technology
+- **Status:** scraped
+
+### Working Student E-Module Maintenance
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154123342-working-student-e-module-maintenance](https://jobs.smartrecruiters.com/BoschGroup/744000154123342-working-student-e-module-maintenance)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, engineering
+- **Status:** scraped
 
 ### Manufacturing Technician MFE3.1
 
@@ -160,14 +192,6 @@ _Generated: 2026-10-07T13:02:44.165Z_
 - **Tags:** automotive, quality-assurance
 - **Status:** scraped
 
-### Working Student Laboratory Support (Chemical Testing)
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152408088-working-student-laboratory-support-chemical-testing](https://jobs.smartrecruiters.com/BoschGroup/744000152408088-working-student-laboratory-support-chemical-testing)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, quality-assurance
-- **Status:** scraped
-
 ### Working Student Electrical Calibration
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152220817-working-student-electrical-calibration](https://jobs.smartrecruiters.com/BoschGroup/744000152220817-working-student-electrical-calibration)
@@ -270,22 +294,6 @@ _Generated: 2026-10-07T13:02:44.165Z_
 - **Work Mode:** hybrid
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, project-management
-- **Status:** scraped
-
-### Working Student in Manufacturing Engineering Support
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000149577419-working-student-in-manufacturing-engineering-support](https://jobs.smartrecruiters.com/BoschGroup/744000149577419-working-student-in-manufacturing-engineering-support)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, manufacturing
-- **Status:** scraped
-
-### Working Student in Product Planning Team
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000149573455-working-student-in-product-planning-team](https://jobs.smartrecruiters.com/BoschGroup/744000149573455-working-student-in-product-planning-team)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, manufacturing
 - **Status:** scraped
 
 ### AI and Cloud Development Engineer - Remote
