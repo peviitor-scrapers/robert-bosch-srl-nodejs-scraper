@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-08 |
+| Last Scraped | 2026-10-09 |
 
 ## Current Job Listings (75)
 
-_Generated: 2026-10-08T13:10:00.907Z_
+_Generated: 2026-10-09T12:56:40.037Z_
+
+### Senior Data Engineer for Connected Services
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154661343-senior-data-engineer-for-connected-services](https://jobs.smartrecruiters.com/BoschGroup/744000154661343-senior-data-engineer-for-connected-services)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, information-technology
+- **Status:** scraped
+
+### Working Student Data Scientist
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154623259-working-student-data-scientist](https://jobs.smartrecruiters.com/BoschGroup/744000154623259-working-student-data-scientist)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, information-technology
+- **Status:** scraped
+
+### Supplier Quality Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154603489-supplier-quality-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000154603489-supplier-quality-engineer)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, engineering
+- **Status:** scraped
 
 ### Back Office Agent
 
@@ -208,14 +232,6 @@ _Generated: 2026-10-08T13:10:00.907Z_
 - **Tags:** automotive, information-technology
 - **Status:** scraped
 
-### Data Engineer for Connected Services
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151878029-data-engineer-for-connected-services](https://jobs.smartrecruiters.com/BoschGroup/744000151878029-data-engineer-for-connected-services)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, information-technology
-- **Status:** scraped
-
 ### Software Test Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151771625-software-test-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000151771625-software-test-engineer)
@@ -320,14 +336,6 @@ _Generated: 2026-10-08T13:10:00.907Z_
 - **Tags:** electrical-and-electronic-manufacturing, engineering
 - **Status:** scraped
 
-### Working Student in Software Testing
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000149016639-working-student-in-software-testing](https://jobs.smartrecruiters.com/BoschGroup/744000149016639-working-student-in-software-testing)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
 ### Intermediate Low Code Developer
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000148948920-intermediate-low-code-developer](https://jobs.smartrecruiters.com/BoschGroup/744000148948920-intermediate-low-code-developer)
@@ -342,14 +350,6 @@ _Generated: 2026-10-08T13:10:00.907Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
-### Mid DevOps Engineer 
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000148780469-mid-devops-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000148780469-mid-devops-engineer)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
 ### Senior Mechatronic Design Engineer – Semiconductor Automation
@@ -525,7 +525,7 @@ _Generated: 2026-10-08T13:10:00.907Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000140212910-agentic-ai-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000140212910-agentic-ai-engineer)
 - **Work Mode:** on-site
 - **Location:** România
-- **Tags:** mechanical-industrial-engineering, information-technology
+- **Tags:** automotive, information-technology
 - **Status:** scraped
 
 ### AI/ML Engineer
