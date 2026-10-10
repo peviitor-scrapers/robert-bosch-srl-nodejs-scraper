@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-09 |
+| Last Scraped | 2026-10-10 |
 
 ## Current Job Listings (75)
 
-_Generated: 2026-10-09T12:56:40.037Z_
+_Generated: 2026-10-10T12:14:24.795Z_
 
 ### Senior Data Engineer for Connected Services
 
@@ -317,7 +317,7 @@ _Generated: 2026-10-09T12:56:40.037Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote](https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote)
 - **Work Mode:** remote
 - **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
+- **Tags:** computer-software, information-technology
 - **Status:** scraped
 
 ### Purchasing Project Manager
@@ -421,7 +421,7 @@ _Generated: 2026-10-09T12:56:40.037Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145902409-sap-d2m-and-mdm-mat-rollout-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000145902409-sap-d2m-and-mdm-mat-rollout-consultant)
 - **Work Mode:** remote
 - **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
+- **Tags:** information-technology-and-services, consulting
 - **Status:** scraped
 
 ### SAP D2M and MDM-MAT Technical Consultant
@@ -453,7 +453,7 @@ _Generated: 2026-10-09T12:56:40.037Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145245881-working-student-for-transport-cleaning](https://jobs.smartrecruiters.com/BoschGroup/744000145245881-working-student-for-transport-cleaning)
 - **Work Mode:** on-site
 - **Location:** România
-- **Tags:** electrical-and-electronic-manufacturing, engineering
+- **Tags:** automotive, customer-service
 - **Status:** scraped
 
 ### Manufacturing Technician MFE21.1
@@ -461,7 +461,7 @@ _Generated: 2026-10-09T12:56:40.037Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145227589-manufacturing-technician-mfe211](https://jobs.smartrecruiters.com/BoschGroup/744000145227589-manufacturing-technician-mfe211)
 - **Work Mode:** on-site
 - **Location:** România
-- **Tags:** mechanical-industrial-engineering, other
+- **Tags:** mechanical-industrial-engineering, manufacturing
 - **Status:** scraped
 
 ### Embedded AI Software Engineer Senior
@@ -485,7 +485,7 @@ _Generated: 2026-10-09T12:56:40.037Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000144543749-product-sales-specialist-with-hungarian](https://jobs.smartrecruiters.com/BoschGroup/744000144543749-product-sales-specialist-with-hungarian)
 - **Work Mode:** hybrid
 - **Location:** Timișoara
-- **Tags:** financial-services, business-development
+- **Tags:** financial-services, sales
 - **Status:** scraped
 
 ###  S/4HANA Key User Application with German 
@@ -509,7 +509,7 @@ _Generated: 2026-10-09T12:56:40.037Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000143077409-ai-solution-architect](https://jobs.smartrecruiters.com/BoschGroup/744000143077409-ai-solution-architect)
 - **Work Mode:** on-site
 - **Location:** România
-- **Tags:** electrical-and-electronic-manufacturing, engineering
+- **Tags:** automotive, information-technology
 - **Status:** scraped
 
 ### Order Management Analyst With German
@@ -517,7 +517,7 @@ _Generated: 2026-10-09T12:56:40.037Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000141192505-order-management-analyst-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000141192505-order-management-analyst-with-german)
 - **Work Mode:** hybrid
 - **Location:** Timișoara
-- **Tags:** logistics-and-supply-chain, analyst
+- **Tags:** financial-services, finance
 - **Status:** scraped
 
 ### Agentic AI Engineer 
@@ -597,7 +597,7 @@ _Generated: 2026-10-09T12:56:40.037Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000132632779-working-student-manufacturing-engineering-support](https://jobs.smartrecruiters.com/BoschGroup/744000132632779-working-student-manufacturing-engineering-support)
 - **Work Mode:** on-site
 - **Location:** România
-- **Tags:** logistics-and-supply-chain, supply-chain
+- **Tags:** automotive, engineering
 - **Status:** scraped
 
 ### Senior Software Engineer
@@ -605,7 +605,7 @@ _Generated: 2026-10-09T12:56:40.037Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000123672539-senior-software-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000123672539-senior-software-engineer)
 - **Work Mode:** on-site
 - **Location:** România
-- **Tags:** mechanical-industrial-engineering, information-technology
+- **Tags:** automotive, information-technology
 - **Status:** scraped
 
 ### Internship Program
