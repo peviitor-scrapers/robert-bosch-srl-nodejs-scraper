@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-11 |
+| Last Scraped | 2026-10-12 |
 
-## Current Job Listings (75)
+## Current Job Listings (76)
 
-_Generated: 2026-10-11T12:29:13.640Z_
+_Generated: 2026-10-12T15:01:23.515Z_
+
+### Electrician mentenanta
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154983972-electrician-mentenanta](https://jobs.smartrecruiters.com/BoschGroup/744000154983972-electrician-mentenanta)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, production
+- **Status:** scraped
 
 ### Senior Data Engineer for Connected Services
 
