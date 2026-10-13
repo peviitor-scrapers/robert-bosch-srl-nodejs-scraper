@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-12 |
+| Last Scraped | 2026-10-13 |
 
-## Current Job Listings (76)
+## Current Job Listings (78)
 
-_Generated: 2026-10-12T15:01:23.515Z_
+_Generated: 2026-10-13T13:56:26.270Z_
+
+### Test Technician
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155252161-test-technician](https://jobs.smartrecruiters.com/BoschGroup/744000155252161-test-technician)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, quality-assurance
+- **Status:** scraped
+
+### Mecanic
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155250460-mecanic](https://jobs.smartrecruiters.com/BoschGroup/744000155250460-mecanic)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, production
+- **Status:** scraped
+
+### Working Student in Line Planning Support
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155238379-working-student-in-line-planning-support](https://jobs.smartrecruiters.com/BoschGroup/744000155238379-working-student-in-line-planning-support)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, production
+- **Status:** scraped
 
 ### Electrician mentenanta
 
@@ -86,14 +110,6 @@ _Generated: 2026-10-12T15:01:23.515Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, manufacturing
-- **Status:** scraped
-
-### Test Technician QMM-L1
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154026682-test-technician-qmm-l1](https://jobs.smartrecruiters.com/BoschGroup/744000154026682-test-technician-qmm-l1)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, other
 - **Status:** scraped
 
 ### Manufacturing Technician MFO4.2
