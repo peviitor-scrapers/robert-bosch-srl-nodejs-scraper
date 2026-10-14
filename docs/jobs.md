@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-13 |
+| Last Scraped | 2026-10-14 |
 
-## Current Job Listings (78)
+## Current Job Listings (79)
 
-_Generated: 2026-10-13T13:56:26.270Z_
+_Generated: 2026-10-14T11:33:27.421Z_
+
+### Electrical Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155439129-electrical-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000155439129-electrical-engineer)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, engineering
+- **Status:** scraped
+
+### Working Student in Logistics & Reporting Support
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155425514-working-student-in-logistics-reporting-support](https://jobs.smartrecruiters.com/BoschGroup/744000155425514-working-student-in-logistics-reporting-support)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, supply-chain
+- **Status:** scraped
+
+### Manufacturing Technician
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155416449-manufacturing-technician](https://jobs.smartrecruiters.com/BoschGroup/744000155416449-manufacturing-technician)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, manufacturing
+- **Status:** scraped
+
+### Manufacturing Technician
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155415504-manufacturing-technician](https://jobs.smartrecruiters.com/BoschGroup/744000155415504-manufacturing-technician)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, manufacturing
+- **Status:** scraped
 
 ### Test Technician
 
@@ -38,6 +70,14 @@ _Generated: 2026-10-13T13:56:26.270Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** automotive, production
+- **Status:** scraped
+
+### Tech Lead
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155196029-tech-lead](https://jobs.smartrecruiters.com/BoschGroup/744000155196029-tech-lead)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
 ### Electrician mentenanta
@@ -102,14 +142,6 @@ _Generated: 2026-10-13T13:56:26.270Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** automotive, engineering
-- **Status:** scraped
-
-### Manufacturing Technician MFE3.1
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154063020-manufacturing-technician-mfe31](https://jobs.smartrecruiters.com/BoschGroup/744000154063020-manufacturing-technician-mfe31)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, manufacturing
 - **Status:** scraped
 
 ### Manufacturing Technician MFO4.2
@@ -272,14 +304,6 @@ _Generated: 2026-10-13T13:56:26.270Z_
 - **Tags:** information-technology-and-services, consulting
 - **Status:** scraped
 
-### Senior Cloud Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151074409-senior-cloud-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000151074409-senior-cloud-engineer)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, information-technology
-- **Status:** scraped
-
 ### Software Quality Engineer Senior
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151047614-software-quality-engineer-senior](https://jobs.smartrecruiters.com/BoschGroup/744000151047614-software-quality-engineer-senior)
@@ -392,14 +416,6 @@ _Generated: 2026-10-13T13:56:26.270Z_
 - **Tags:** automotive, engineering
 - **Status:** scraped
 
-### Electrical Maintenance Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000148192160-electrical-maintenance-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000148192160-electrical-maintenance-engineer)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
 ### Working Student Industrial Engineering 
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000147955469-working-student-industrial-engineering](https://jobs.smartrecruiters.com/BoschGroup/744000147955469-working-student-industrial-engineering)
@@ -478,14 +494,6 @@ _Generated: 2026-10-13T13:56:26.270Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** automotive, customer-service
-- **Status:** scraped
-
-### Manufacturing Technician MFE21.1
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145227589-manufacturing-technician-mfe211](https://jobs.smartrecruiters.com/BoschGroup/744000145227589-manufacturing-technician-mfe211)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, manufacturing
 - **Status:** scraped
 
 ### Embedded AI Software Engineer Senior
