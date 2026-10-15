@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-14 |
+| Last Scraped | 2026-10-15 |
 
 ## Current Job Listings (79)
 
-_Generated: 2026-10-14T11:33:27.421Z_
+_Generated: 2026-10-15T11:12:12.049Z_
+
+### Working Student - Controlling area
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155728469-working-student-controlling-area](https://jobs.smartrecruiters.com/BoschGroup/744000155728469-working-student-controlling-area)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, administrative
+- **Status:** scraped
+
+### Controlling Team Manager
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155532609-controlling-team-manager](https://jobs.smartrecruiters.com/BoschGroup/744000155532609-controlling-team-manager)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, accounting/auditing
+- **Status:** scraped
 
 ### Electrical Engineer
 
@@ -91,14 +107,6 @@ _Generated: 2026-10-14T11:33:27.421Z_
 ### Senior Data Engineer for Connected Services
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154661343-senior-data-engineer-for-connected-services](https://jobs.smartrecruiters.com/BoschGroup/744000154661343-senior-data-engineer-for-connected-services)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, information-technology
-- **Status:** scraped
-
-### Working Student Data Scientist
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154623259-working-student-data-scientist](https://jobs.smartrecruiters.com/BoschGroup/744000154623259-working-student-data-scientist)
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** automotive, information-technology
@@ -190,14 +198,6 @@ _Generated: 2026-10-14T11:33:27.421Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
-### Executive Assistant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000153462865-executive-assistant](https://jobs.smartrecruiters.com/BoschGroup/744000153462865-executive-assistant)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** information-services, administrative
 - **Status:** scraped
 
 ### Working Student in Verification & Validation & Test Automation
