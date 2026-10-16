@@ -10,11 +10,83 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-15 |
+| Last Scraped | 2026-10-16 |
 
-## Current Job Listings (79)
+## Current Job Listings (83)
 
-_Generated: 2026-10-15T11:12:12.049Z_
+_Generated: 2026-10-16T11:06:47.946Z_
+
+### Senior DevOps Engineer 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155966079-senior-devops-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000155966079-senior-devops-engineer)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** mechanical-industrial-engineering, engineering
+- **Status:** scraped
+
+### Full-stack Developer with AI
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155962579-full-stack-developer-with-ai](https://jobs.smartrecruiters.com/BoschGroup/744000155962579-full-stack-developer-with-ai)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** mechanical-industrial-engineering, engineering
+- **Status:** scraped
+
+### Working Student Sample Management Expert
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155955099-working-student-sample-management-expert](https://jobs.smartrecruiters.com/BoschGroup/744000155955099-working-student-sample-management-expert)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
+
+### SAP IT Functional Consultant in Logistic Area
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155948955-sap-it-functional-consultant-in-logistic-area](https://jobs.smartrecruiters.com/BoschGroup/744000155948955-sap-it-functional-consultant-in-logistic-area)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, consulting
+- **Status:** scraped
+
+### SAP Dangerous Good Management Consultant
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155934529-sap-dangerous-good-management-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000155934529-sap-dangerous-good-management-consultant)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, consulting
+- **Status:** scraped
+
+### Electronics Hardware Design Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155927730-electronics-hardware-design-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000155927730-electronics-hardware-design-engineer)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, engineering
+- **Status:** scraped
+
+### Senior Cloud Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155762465-senior-cloud-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000155762465-senior-cloud-engineer)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, information-technology
+- **Status:** scraped
+
+### Technical Project Manager 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155752229-technical-project-manager](https://jobs.smartrecruiters.com/BoschGroup/744000155752229-technical-project-manager)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** mechanical-industrial-engineering, project-management
+- **Status:** scraped
+
+### Back Office Agent
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155740710-back-office-agent](https://jobs.smartrecruiters.com/BoschGroup/744000155740710-back-office-agent)
+- **Work Mode:** on-site
+- **Location:** Timișoara
+- **Tags:** computer-and-network-security, information-technology
+- **Status:** scraped
 
 ### Working Student - Controlling area
 
@@ -120,14 +192,6 @@ _Generated: 2026-10-15T11:12:12.049Z_
 - **Tags:** financial-services, engineering
 - **Status:** scraped
 
-### Back Office Agent
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154423759-back-office-agent](https://jobs.smartrecruiters.com/BoschGroup/744000154423759-back-office-agent)
-- **Work Mode:** on-site
-- **Location:** Timișoara
-- **Tags:** computer-and-network-security, information-technology
-- **Status:** scraped
-
 ### Working Student Spare Parts Planning
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154361569-working-student-spare-parts-planning](https://jobs.smartrecruiters.com/BoschGroup/744000154361569-working-student-spare-parts-planning)
@@ -224,14 +288,6 @@ _Generated: 2026-10-15T11:12:12.049Z_
 - **Tags:** mechanical-industrial-engineering, sales
 - **Status:** scraped
 
-### Junior Data Scientist for (e-)Mobility Cloud Solutions
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152911929-junior-data-scientist-for-e-mobility-cloud-solutions](https://jobs.smartrecruiters.com/BoschGroup/744000152911929-junior-data-scientist-for-e-mobility-cloud-solutions)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
 ### Intermediate Data Scientist for (e-)Mobility Cloud Solutions
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152910009-intermediate-data-scientist-for-e-mobility-cloud-solutions](https://jobs.smartrecruiters.com/BoschGroup/744000152910009-intermediate-data-scientist-for-e-mobility-cloud-solutions)
@@ -246,14 +302,6 @@ _Generated: 2026-10-15T11:12:12.049Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, finance
-- **Status:** scraped
-
-### Customer Claims and Compensation Expert
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152844454-customer-claims-and-compensation-expert](https://jobs.smartrecruiters.com/BoschGroup/744000152844454-customer-claims-and-compensation-expert)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
 - **Status:** scraped
 
 ### Working Student - Purchasing Project Management
@@ -456,14 +504,6 @@ _Generated: 2026-10-15T11:12:12.049Z_
 - **Tags:** logistics-and-supply-chain, analyst
 - **Status:** scraped
 
-### SAP D2M and MDM-MAT Rollout Consultant 
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145902409-sap-d2m-and-mdm-mat-rollout-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000145902409-sap-d2m-and-mdm-mat-rollout-consultant)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, consulting
-- **Status:** scraped
-
 ### SAP D2M and MDM-MAT Technical Consultant
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145900360-sap-d2m-and-mdm-mat-technical-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000145900360-sap-d2m-and-mdm-mat-technical-consultant)
@@ -542,14 +582,6 @@ _Generated: 2026-10-15T11:12:12.049Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** automotive, information-technology
-- **Status:** scraped
-
-### Order Management Analyst With German
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000141192505-order-management-analyst-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000141192505-order-management-analyst-with-german)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** financial-services, finance
 - **Status:** scraped
 
 ### Agentic AI Engineer 
