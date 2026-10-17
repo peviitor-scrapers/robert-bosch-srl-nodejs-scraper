@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-16 |
+| Last Scraped | 2026-10-17 |
 
-## Current Job Listings (83)
+## Current Job Listings (85)
 
-_Generated: 2026-10-16T11:06:47.946Z_
+_Generated: 2026-10-17T10:26:22.179Z_
+
+### Sample Management Expert with French
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155971385-sample-management-expert-with-french](https://jobs.smartrecruiters.com/BoschGroup/744000155971385-sample-management-expert-with-french)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
+
+### Sample Management Expert with German
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155970519-sample-management-expert-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000155970519-sample-management-expert-with-german)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
 
 ### Senior DevOps Engineer 
 
