@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-17 |
+| Last Scraped | 2026-10-18 |
 
 ## Current Job Listings (85)
 
-_Generated: 2026-10-17T10:26:22.179Z_
+_Generated: 2026-10-18T10:44:51.762Z_
 
 ### Sample Management Expert with French
 
