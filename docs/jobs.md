@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-19 |
+| Last Scraped | 2026-10-20 |
 
-## Current Job Listings (81)
+## Current Job Listings (80)
 
-_Generated: 2026-10-19T12:44:36.734Z_
+_Generated: 2026-10-20T11:15:25.336Z_
+
+### Working Student in Manufacturing Engineering Support
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156335389-working-student-in-manufacturing-engineering-support](https://jobs.smartrecruiters.com/BoschGroup/744000156335389-working-student-in-manufacturing-engineering-support)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** electrical-and-electronic-manufacturing, engineering
+- **Status:** scraped
+
+### Working Student - Waste Management
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management](https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** electrical-and-electronic-manufacturing, engineering
+- **Status:** scraped
 
 ### Working Student in Embedded Software Development - High Level
 
@@ -238,14 +254,6 @@ _Generated: 2026-10-19T12:44:36.734Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, manufacturing
-- **Status:** scraped
-
-### Working Student – Technical Project Administration
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154009469-working-student-technical-project-administration](https://jobs.smartrecruiters.com/BoschGroup/744000154009469-working-student-technical-project-administration)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, project-management
 - **Status:** scraped
 
 ### Working Student – Line Engineering Support
@@ -574,22 +582,6 @@ _Generated: 2026-10-19T12:44:36.734Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** automotive, information-technology
-- **Status:** scraped
-
-### Agentic AI Engineer 
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000140212910-agentic-ai-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000140212910-agentic-ai-engineer)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** automotive, information-technology
-- **Status:** scraped
-
-### AI/ML Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000140212639-aiml-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000140212639-aiml-engineer)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, information-technology
 - **Status:** scraped
 
 ### SAP Manufacturing To Supply Consultant
