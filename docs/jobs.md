@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-20 |
+| Last Scraped | 2026-10-21 |
 
 ## Current Job Listings (80)
 
-_Generated: 2026-10-20T11:15:25.336Z_
+_Generated: 2026-10-21T11:31:30.700Z_
+
+### Cloud Platform Engineer 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156733844-cloud-platform-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000156733844-cloud-platform-engineer)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
+
+### Embedded Software Engineer – ADAS Functions Realization for Driving
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156518857-embedded-software-engineer-adas-functions-realization-for-driving](https://jobs.smartrecruiters.com/BoschGroup/744000156518857-embedded-software-engineer-adas-functions-realization-for-driving)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
+
+### Logistics Innovation Coordinator
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156507171-logistics-innovation-coordinator](https://jobs.smartrecruiters.com/BoschGroup/744000156507171-logistics-innovation-coordinator)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, supply-chain
+- **Status:** scraped
 
 ### Working Student in Manufacturing Engineering Support
 
@@ -232,14 +256,6 @@ _Generated: 2026-10-20T11:15:25.336Z_
 - **Tags:** automotive, engineering
 - **Status:** scraped
 
-### SAP Key User
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154348709-sap-key-user](https://jobs.smartrecruiters.com/BoschGroup/744000154348709-sap-key-user)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** automotive, information-technology
-- **Status:** scraped
-
 ### Working Student E-Module Maintenance
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154123342-working-student-e-module-maintenance](https://jobs.smartrecruiters.com/BoschGroup/744000154123342-working-student-e-module-maintenance)
@@ -294,14 +310,6 @@ _Generated: 2026-10-20T11:15:25.336Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### Controller in Customer Team
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000153110701-controller-in-customer-team](https://jobs.smartrecruiters.com/BoschGroup/744000153110701-controller-in-customer-team)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
 - **Status:** scraped
 
 ### Business Developer Accessories 
@@ -422,14 +430,6 @@ _Generated: 2026-10-20T11:15:25.336Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
-### Working Student Industrial Engineering 
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000149312017-working-student-industrial-engineering](https://jobs.smartrecruiters.com/BoschGroup/744000149312017-working-student-industrial-engineering)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** electrical-and-electronic-manufacturing, engineering
 - **Status:** scraped
 
 ### Intermediate Low Code Developer
