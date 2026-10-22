@@ -10,11 +10,51 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-21 |
+| Last Scraped | 2026-10-22 |
 
-## Current Job Listings (80)
+## Current Job Listings (79)
 
-_Generated: 2026-10-21T11:31:30.700Z_
+_Generated: 2026-10-22T11:31:25.132Z_
+
+### Sample Management Expert with German
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157063050-sample-management-expert-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000157063050-sample-management-expert-with-german)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
+
+###  IT Help Desk Consultant 1st level with German 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156804059-it-help-desk-consultant-1st-level-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000156804059-it-help-desk-consultant-1st-level-with-german)
+- **Work Mode:** on-site
+- **Location:** Timișoara
+- **Tags:** computer-and-network-security, information-technology
+- **Status:** scraped
+
+### IT Landscape Management and Software Licensing Specialist
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156801964-it-landscape-management-and-software-licensing-specialist](https://jobs.smartrecruiters.com/BoschGroup/744000156801964-it-landscape-management-and-software-licensing-specialist)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
+
+### Project Management Support
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156792589-project-management-support](https://jobs.smartrecruiters.com/BoschGroup/744000156792589-project-management-support)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, project-management
+- **Status:** scraped
+
+### Full-Stack Developer Senior
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156784194-full-stack-developer-senior](https://jobs.smartrecruiters.com/BoschGroup/744000156784194-full-stack-developer-senior)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
 
 ### Cloud Platform Engineer 
 
@@ -67,14 +107,6 @@ _Generated: 2026-10-21T11:31:30.700Z_
 ### Sample Management Expert with French
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155971385-sample-management-expert-with-french](https://jobs.smartrecruiters.com/BoschGroup/744000155971385-sample-management-expert-with-french)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
-- **Status:** scraped
-
-### Sample Management Expert with German
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155970519-sample-management-expert-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000155970519-sample-management-expert-with-german)
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** automotive, sales
@@ -142,14 +174,6 @@ _Generated: 2026-10-21T11:31:30.700Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** mechanical-industrial-engineering, project-management
-- **Status:** scraped
-
-### Back Office Agent
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155740710-back-office-agent](https://jobs.smartrecruiters.com/BoschGroup/744000155740710-back-office-agent)
-- **Work Mode:** on-site
-- **Location:** Timișoara
-- **Tags:** computer-and-network-security, information-technology
 - **Status:** scraped
 
 ### Working Student - Controlling area
@@ -272,14 +296,6 @@ _Generated: 2026-10-21T11:31:30.700Z_
 - **Tags:** mechanical-industrial-engineering, manufacturing
 - **Status:** scraped
 
-### Working Student – Line Engineering Support
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154007331-working-student-line-engineering-support](https://jobs.smartrecruiters.com/BoschGroup/744000154007331-working-student-line-engineering-support)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, manufacturing
-- **Status:** scraped
-
 ### Data Governance Senior
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000153713589-data-governance-senior](https://jobs.smartrecruiters.com/BoschGroup/744000153713589-data-governance-senior)
@@ -302,14 +318,6 @@ _Generated: 2026-10-21T11:31:30.700Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
-### Working Student in Verification & Validation & Test Automation
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000153182257-working-student-in-verification-validation-test-automation](https://jobs.smartrecruiters.com/BoschGroup/744000153182257-working-student-in-verification-validation-test-automation)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
 ### Business Developer Accessories 
@@ -512,14 +520,6 @@ _Generated: 2026-10-21T11:31:30.700Z_
 - **Tags:** information-technology-and-services, consulting
 - **Status:** scraped
 
-### IT Landscape Management and Software Licensing Specialist
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145459389-it-landscape-management-and-software-licensing-specialist](https://jobs.smartrecruiters.com/BoschGroup/744000145459389-it-landscape-management-and-software-licensing-specialist)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
 ### SAP Intralogistics to Demand Technical Consultant
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145448869-sap-intralogistics-to-demand-technical-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000145448869-sap-intralogistics-to-demand-technical-consultant)
@@ -595,14 +595,6 @@ _Generated: 2026-10-21T11:31:30.700Z_
 ### DevOps Engineer Senior
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000138135258-devops-engineer-senior](https://jobs.smartrecruiters.com/BoschGroup/744000138135258-devops-engineer-senior)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### Cloud Solution Architect
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000137473609-cloud-solution-architect](https://jobs.smartrecruiters.com/BoschGroup/744000137473609-cloud-solution-architect)
 - **Work Mode:** remote
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, information-technology
