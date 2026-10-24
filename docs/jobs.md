@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-23 |
+| Last Scraped | 2026-10-24 |
 
-## Current Job Listings (82)
+## Current Job Listings (85)
 
-_Generated: 2026-10-23T11:21:13.355Z_
+_Generated: 2026-10-24T10:40:08.110Z_
+
+### Working Student UI/UX Design for Connected Services
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157500560-working-student-uiux-design-for-connected-services](https://jobs.smartrecruiters.com/BoschGroup/744000157500560-working-student-uiux-design-for-connected-services)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, information-technology
+- **Status:** scraped
+
+### Regional Network & Peering Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157457582-regional-network-peering-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000157457582-regional-network-peering-engineer)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, consulting
+- **Status:** scraped
+
+### Network Infrastructure & Routing Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157459840-network-infrastructure-routing-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000157459840-network-infrastructure-routing-engineer)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, consulting
+- **Status:** scraped
 
 ### SAP S/4 HANA Authorization Consultant
 
