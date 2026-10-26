@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-25 |
+| Last Scraped | 2026-10-26 |
 
-## Current Job Listings (85)
+## Current Job Listings (84)
 
-_Generated: 2026-10-25T11:04:36.686Z_
+_Generated: 2026-10-26T12:37:42.623Z_
+
+### Azure Cloud Platform Engineer with Python
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157754944-azure-cloud-platform-engineer-with-python](https://jobs.smartrecruiters.com/BoschGroup/744000157754944-azure-cloud-platform-engineer-with-python)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
 
 ### Working Student UI/UX Design for Connected Services
 
@@ -117,14 +125,6 @@ _Generated: 2026-10-25T11:04:36.686Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156784194-full-stack-developer-senior](https://jobs.smartrecruiters.com/BoschGroup/744000156784194-full-stack-developer-senior)
 - **Work Mode:** hybrid
 - **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### Cloud Platform Engineer 
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156733844-cloud-platform-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000156733844-cloud-platform-engineer)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
 - **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
@@ -302,14 +302,6 @@ _Generated: 2026-10-25T11:04:36.686Z_
 - **Work Mode:** hybrid
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### Electrician mentenanta
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000154983972-electrician-mentenanta](https://jobs.smartrecruiters.com/BoschGroup/744000154983972-electrician-mentenanta)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** automotive, production
 - **Status:** scraped
 
 ### Senior Data Engineer for Connected Services
