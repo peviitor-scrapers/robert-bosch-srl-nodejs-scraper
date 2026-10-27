@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
-## Current Job Listings (84)
+## Current Job Listings (82)
 
-_Generated: 2026-10-26T12:37:42.623Z_
+_Generated: 2026-10-27T11:54:22.052Z_
+
+### Working Student in Sales Planning
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157805495-working-student-in-sales-planning](https://jobs.smartrecruiters.com/BoschGroup/744000157805495-working-student-in-sales-planning)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
 
 ### Azure Cloud Platform Engineer with Python
 
@@ -22,14 +30,6 @@ _Generated: 2026-10-26T12:37:42.623Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### Working Student UI/UX Design for Connected Services
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157500560-working-student-uiux-design-for-connected-services](https://jobs.smartrecruiters.com/BoschGroup/744000157500560-working-student-uiux-design-for-connected-services)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, information-technology
 - **Status:** scraped
 
 ### Regional Network & Peering Engineer
@@ -400,14 +400,6 @@ _Generated: 2026-10-26T12:37:42.623Z_
 - **Tags:** automotive, engineering
 - **Status:** scraped
 
-### Working Student Data Engineering
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151876276-working-student-data-engineering](https://jobs.smartrecruiters.com/BoschGroup/744000151876276-working-student-data-engineering)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, information-technology
-- **Status:** scraped
-
 ### Software Test Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151771625-software-test-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000151771625-software-test-engineer)
@@ -590,14 +582,6 @@ _Generated: 2026-10-26T12:37:42.623Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-###  Embedded AI Software Engineer Mid-Level
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000144767549-embedded-ai-software-engineer-mid-level](https://jobs.smartrecruiters.com/BoschGroup/744000144767549-embedded-ai-software-engineer-mid-level)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** information-services, engineering
 - **Status:** scraped
 
 ###  S/4HANA Key User Application with German 
