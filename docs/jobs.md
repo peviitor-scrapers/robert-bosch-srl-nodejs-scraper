@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
-## Current Job Listings (82)
+## Current Job Listings (81)
 
-_Generated: 2026-10-27T11:54:22.052Z_
+_Generated: 2026-10-28T12:30:56.602Z_
+
+### Cloud Engineer Senior
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158004869-cloud-engineer-senior](https://jobs.smartrecruiters.com/BoschGroup/744000158004869-cloud-engineer-senior)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
+
+### Data Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158004579-data-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000158004579-data-engineer)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
+
+### Working Student UI/UX Design for Connected Services
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157985180-working-student-uiux-design-for-connected-services](https://jobs.smartrecruiters.com/BoschGroup/744000157985180-working-student-uiux-design-for-connected-services)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, information-technology
+- **Status:** scraped
+
+### Working Student in Product Planning Team
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157967018-working-student-in-product-planning-team](https://jobs.smartrecruiters.com/BoschGroup/744000157967018-working-student-in-product-planning-team)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, production
+- **Status:** scraped
 
 ### Working Student in Sales Planning
 
@@ -102,14 +134,6 @@ _Generated: 2026-10-27T11:54:22.052Z_
 - **Work Mode:** on-site
 - **Location:** Timișoara
 - **Tags:** computer-and-network-security, information-technology
-- **Status:** scraped
-
-### IT Landscape Management and Software Licensing Specialist
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156801964-it-landscape-management-and-software-licensing-specialist](https://jobs.smartrecruiters.com/BoschGroup/744000156801964-it-landscape-management-and-software-licensing-specialist)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
 ### Project Management Support
@@ -288,14 +312,6 @@ _Generated: 2026-10-27T11:54:22.052Z_
 - **Tags:** mechanical-industrial-engineering, production
 - **Status:** scraped
 
-### Working Student in Line Planning Support
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155238379-working-student-in-line-planning-support](https://jobs.smartrecruiters.com/BoschGroup/744000155238379-working-student-in-line-planning-support)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, production
-- **Status:** scraped
-
 ### Tech Lead
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155196029-tech-lead](https://jobs.smartrecruiters.com/BoschGroup/744000155196029-tech-lead)
@@ -366,14 +382,6 @@ _Generated: 2026-10-27T11:54:22.052Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
-### Business Developer Accessories 
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152915055-business-developer-accessories](https://jobs.smartrecruiters.com/BoschGroup/744000152915055-business-developer-accessories)
-- **Work Mode:** hybrid
-- **Location:** București
-- **Tags:** mechanical-industrial-engineering, sales
 - **Status:** scraped
 
 ### Intermediate Data Scientist for (e-)Mobility Cloud Solutions
@@ -456,14 +464,6 @@ _Generated: 2026-10-27T11:54:22.052Z_
 - **Tags:** automotive, engineering
 - **Status:** scraped
 
-### Organizational Change Manager
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000149609919-organizational-change-manager](https://jobs.smartrecruiters.com/BoschGroup/744000149609919-organizational-change-manager)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, project-management
-- **Status:** scraped
-
 ### AI and Cloud Development Engineer - Remote
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote](https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote)
@@ -502,14 +502,6 @@ _Generated: 2026-10-27T11:54:22.052Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
-### Working Student - Production Area
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000148207959-working-student-production-area](https://jobs.smartrecruiters.com/BoschGroup/744000148207959-working-student-production-area)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** automotive, engineering
 - **Status:** scraped
 
 ### Working Student Industrial Engineering 
