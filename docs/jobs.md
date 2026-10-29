@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-28 |
+| Last Scraped | 2026-10-29 |
 
 ## Current Job Listings (81)
 
-_Generated: 2026-10-28T12:30:56.602Z_
+_Generated: 2026-10-29T12:41:42.610Z_
+
+### SAP IT Functional Consultant in Logistic Area
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158499546-sap-it-functional-consultant-in-logistic-area](https://jobs.smartrecruiters.com/BoschGroup/744000158499546-sap-it-functional-consultant-in-logistic-area)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, consulting
+- **Status:** scraped
+
+### Senior Learning & Development Business Partner
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158498089-senior-learning-development-business-partner](https://jobs.smartrecruiters.com/BoschGroup/744000158498089-senior-learning-development-business-partner)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, human-resources
+- **Status:** scraped
+
+### Working Student - Production Digitalization 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158482969-working-student-production-digitalization](https://jobs.smartrecruiters.com/BoschGroup/744000158482969-working-student-production-digitalization)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, engineering
+- **Status:** scraped
 
 ### Cloud Engineer Senior
 
@@ -222,14 +246,6 @@ _Generated: 2026-10-28T12:30:56.602Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** automotive, sales
-- **Status:** scraped
-
-### SAP IT Functional Consultant in Logistic Area
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155948955-sap-it-functional-consultant-in-logistic-area](https://jobs.smartrecruiters.com/BoschGroup/744000155948955-sap-it-functional-consultant-in-logistic-area)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, consulting
 - **Status:** scraped
 
 ### SAP Dangerous Good Management Consultant
@@ -488,14 +504,6 @@ _Generated: 2026-10-28T12:30:56.602Z_
 - **Tags:** computer-software, information-technology
 - **Status:** scraped
 
-### Working Student - Production Digitalization 
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000148937215-working-student-production-digitalization](https://jobs.smartrecruiters.com/BoschGroup/744000148937215-working-student-production-digitalization)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
 ### Senior Mechatronic Design Engineer – Semiconductor Automation
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000148739699-senior-mechatronic-design-engineer-semiconductor-automation](https://jobs.smartrecruiters.com/BoschGroup/744000148739699-senior-mechatronic-design-engineer-semiconductor-automation)
@@ -566,14 +574,6 @@ _Generated: 2026-10-28T12:30:56.602Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** automotive, customer-service
-- **Status:** scraped
-
-### Embedded AI Software Engineer Senior
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000144763774-embedded-ai-software-engineer-senior](https://jobs.smartrecruiters.com/BoschGroup/744000144763774-embedded-ai-software-engineer-senior)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
 ###  S/4HANA Key User Application with German 
