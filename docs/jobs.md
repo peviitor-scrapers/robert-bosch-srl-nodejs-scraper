@@ -10,11 +10,75 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-29 |
+| Last Scraped | 2026-10-30 |
 
-## Current Job Listings (81)
+## Current Job Listings (83)
 
-_Generated: 2026-10-29T12:41:42.610Z_
+_Generated: 2026-10-30T12:33:14.292Z_
+
+### Working Student - Accounts Payable
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158690999-working-student-accounts-payable](https://jobs.smartrecruiters.com/BoschGroup/744000158690999-working-student-accounts-payable)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, accounting/auditing
+- **Status:** scraped
+
+### Working Student - Travel and Expense
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158686781-working-student-travel-and-expense](https://jobs.smartrecruiters.com/BoschGroup/744000158686781-working-student-travel-and-expense)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, administrative
+- **Status:** scraped
+
+### Working Student - Purchasing
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158683677-working-student-purchasing](https://jobs.smartrecruiters.com/BoschGroup/744000158683677-working-student-purchasing)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, purchasing
+- **Status:** scraped
+
+### Order Management Analyst with Spanish
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158681766-order-management-analyst-with-spanish](https://jobs.smartrecruiters.com/BoschGroup/744000158681766-order-management-analyst-with-spanish)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, business-development
+- **Status:** scraped
+
+### Working Student - Customer Master Data
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158682259-working-student-customer-master-data](https://jobs.smartrecruiters.com/BoschGroup/744000158682259-working-student-customer-master-data)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, business-development
+- **Status:** scraped
+
+### Working Student - Customer Master Data
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158679999-working-student-customer-master-data](https://jobs.smartrecruiters.com/BoschGroup/744000158679999-working-student-customer-master-data)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, finance
+- **Status:** scraped
+
+### Business Analyst in Controlling Area
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158677440-business-analyst-in-controlling-area](https://jobs.smartrecruiters.com/BoschGroup/744000158677440-business-analyst-in-controlling-area)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, manufacturing
+- **Status:** scraped
+
+### Working Student - IT Tools Support & Admin
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158677639-working-student-it-tools-support-admin](https://jobs.smartrecruiters.com/BoschGroup/744000158677639-working-student-it-tools-support-admin)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, business-development
+- **Status:** scraped
 
 ### SAP IT Functional Consultant in Logistic Area
 
@@ -240,14 +304,6 @@ _Generated: 2026-10-29T12:41:42.610Z_
 - **Tags:** mechanical-industrial-engineering, engineering
 - **Status:** scraped
 
-### Working Student Sample Management Expert
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155955099-working-student-sample-management-expert](https://jobs.smartrecruiters.com/BoschGroup/744000155955099-working-student-sample-management-expert)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
-- **Status:** scraped
-
 ### SAP Dangerous Good Management Consultant
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155934529-sap-dangerous-good-management-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000155934529-sap-dangerous-good-management-consultant)
@@ -408,14 +464,6 @@ _Generated: 2026-10-29T12:41:42.610Z_
 - **Tags:** automotive, engineering
 - **Status:** scraped
 
-### Working Student - Purchasing Project Management
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152838741-working-student-purchasing-project-management](https://jobs.smartrecruiters.com/BoschGroup/744000152838741-working-student-purchasing-project-management)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, project-management
-- **Status:** scraped
-
 ### Working Student Electrical Calibration
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152220817-working-student-electrical-calibration](https://jobs.smartrecruiters.com/BoschGroup/744000152220817-working-student-electrical-calibration)
@@ -544,28 +592,12 @@ _Generated: 2026-10-29T12:41:42.610Z_
 - **Tags:** mechanical-industrial-engineering, engineering
 - **Status:** scraped
 
-### SAP Intralogistics to Demand Technical Consultant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145956099-sap-intralogistics-to-demand-technical-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000145956099-sap-intralogistics-to-demand-technical-consultant)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** logistics-and-supply-chain, analyst
-- **Status:** scraped
-
 ### SAP D2M and MDM-MAT Technical Consultant
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145900360-sap-d2m-and-mdm-mat-technical-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000145900360-sap-d2m-and-mdm-mat-technical-consultant)
 - **Work Mode:** remote
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, consulting
-- **Status:** scraped
-
-### SAP Intralogistics to Demand Technical Consultant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145448869-sap-intralogistics-to-demand-technical-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000145448869-sap-intralogistics-to-demand-technical-consultant)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, finance
 - **Status:** scraped
 
 ### Working Student for Transport & Cleaning
@@ -616,14 +648,6 @@ _Generated: 2026-10-29T12:41:42.610Z_
 - **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
-### SAP Intralogistics To Demand Consultant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000136412550-sap-intralogistics-to-demand-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000136412550-sap-intralogistics-to-demand-consultant)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
 ### DevOps Team Leader
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000134201369-devops-team-leader](https://jobs.smartrecruiters.com/BoschGroup/744000134201369-devops-team-leader)
@@ -654,12 +678,4 @@ _Generated: 2026-10-29T12:41:42.610Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** automotive, information-technology
-- **Status:** scraped
-
-### Internship Program
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000113124977-internship-program](https://jobs.smartrecruiters.com/BoschGroup/744000113124977-internship-program)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** financial-services, accounting/auditing
 - **Status:** scraped
