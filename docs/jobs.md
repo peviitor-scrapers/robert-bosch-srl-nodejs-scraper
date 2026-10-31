@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-10-30 |
+| Last Scraped | 2026-10-31 |
 
 ## Current Job Listings (83)
 
-_Generated: 2026-10-30T12:33:14.292Z_
+_Generated: 2026-10-31T11:59:12.721Z_
+
+### Working Student Support for Production
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158774179-working-student-support-for-production](https://jobs.smartrecruiters.com/BoschGroup/744000158774179-working-student-support-for-production)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, production
+- **Status:** scraped
+
+### Working Student - Travel and Expense
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158733499-working-student-travel-and-expense](https://jobs.smartrecruiters.com/BoschGroup/744000158733499-working-student-travel-and-expense)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, administrative
+- **Status:** scraped
 
 ### Working Student - Accounts Payable
 
@@ -22,14 +38,6 @@ _Generated: 2026-10-30T12:33:14.292Z_
 - **Work Mode:** hybrid
 - **Location:** Timișoara
 - **Tags:** financial-services, accounting/auditing
-- **Status:** scraped
-
-### Working Student - Travel and Expense
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158686781-working-student-travel-and-expense](https://jobs.smartrecruiters.com/BoschGroup/744000158686781-working-student-travel-and-expense)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** financial-services, administrative
 - **Status:** scraped
 
 ### Working Student - Purchasing
@@ -366,14 +374,6 @@ _Generated: 2026-10-30T12:33:14.292Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** automotive, supply-chain
-- **Status:** scraped
-
-### Manufacturing Technician
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155415504-manufacturing-technician](https://jobs.smartrecruiters.com/BoschGroup/744000155415504-manufacturing-technician)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, manufacturing
 - **Status:** scraped
 
 ### Mecanic
