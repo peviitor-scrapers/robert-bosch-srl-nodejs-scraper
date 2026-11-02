@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
-## Current Job Listings (83)
+## Current Job Listings (81)
 
-_Generated: 2026-11-01T12:59:37.863Z_
+_Generated: 2026-11-02T15:20:21.675Z_
+
+### Working Student IT Support
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159096995-working-student-it-support](https://jobs.smartrecruiters.com/BoschGroup/744000159096995-working-student-it-support)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, information-technology
+- **Status:** scraped
 
 ### Working Student Support for Production
 
@@ -62,14 +70,6 @@ _Generated: 2026-11-01T12:59:37.863Z_
 - **Work Mode:** hybrid
 - **Location:** Timișoara
 - **Tags:** financial-services, business-development
-- **Status:** scraped
-
-### Working Student - Customer Master Data
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158679999-working-student-customer-master-data](https://jobs.smartrecruiters.com/BoschGroup/744000158679999-working-student-customer-master-data)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** financial-services, finance
 - **Status:** scraped
 
 ### Business Analyst in Controlling Area
@@ -230,14 +230,6 @@ _Generated: 2026-11-01T12:59:37.863Z_
 - **Work Mode:** on-site
 - **Location:** Timișoara
 - **Tags:** computer-and-network-security, information-technology
-- **Status:** scraped
-
-### Project Management Support
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156792589-project-management-support](https://jobs.smartrecruiters.com/BoschGroup/744000156792589-project-management-support)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, project-management
 - **Status:** scraped
 
 ### Full-Stack Developer Senior
@@ -566,14 +558,6 @@ _Generated: 2026-11-01T12:59:37.863Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** automotive, engineering
-- **Status:** scraped
-
-### Working Student Process Engineering & Digitalization
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000147922189-working-student-process-engineering-digitalization](https://jobs.smartrecruiters.com/BoschGroup/744000147922189-working-student-process-engineering-digitalization)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, engineering
 - **Status:** scraped
 
 ### Working Student - Physical Logistics 
