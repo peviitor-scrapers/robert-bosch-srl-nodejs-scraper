@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
 ## Current Job Listings (81)
 
-_Generated: 2026-11-02T15:20:21.675Z_
+_Generated: 2026-11-03T13:56:11.699Z_
+
+### Azure Cloud Developer with Python
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159377359-azure-cloud-developer-with-python](https://jobs.smartrecruiters.com/BoschGroup/744000159377359-azure-cloud-developer-with-python)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
+
+### Cloud Engineer Senior
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159341298-cloud-engineer-senior](https://jobs.smartrecruiters.com/BoschGroup/744000159341298-cloud-engineer-senior)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
 
 ### Working Student IT Support
 
@@ -112,14 +128,6 @@ _Generated: 2026-11-02T15:20:21.675Z_
 - **Tags:** mechanical-industrial-engineering, engineering
 - **Status:** scraped
 
-### Cloud Engineer Senior
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158004869-cloud-engineer-senior](https://jobs.smartrecruiters.com/BoschGroup/744000158004869-cloud-engineer-senior)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
 ### Data Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158004579-data-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000158004579-data-engineer)
@@ -150,14 +158,6 @@ _Generated: 2026-11-02T15:20:21.675Z_
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** automotive, sales
-- **Status:** scraped
-
-### Azure Cloud Platform Engineer with Python
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157754944-azure-cloud-platform-engineer-with-python](https://jobs.smartrecruiters.com/BoschGroup/744000157754944-azure-cloud-platform-engineer-with-python)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
 ### Regional Network & Peering Engineer
