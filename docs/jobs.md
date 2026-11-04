@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-03 |
+| Last Scraped | 2026-11-04 |
 
-## Current Job Listings (81)
+## Current Job Listings (82)
 
-_Generated: 2026-11-03T13:56:11.699Z_
+_Generated: 2026-11-04T14:08:42.950Z_
+
+### Working Student in Packaging Logistics
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159634506-working-student-in-packaging-logistics](https://jobs.smartrecruiters.com/BoschGroup/744000159634506-working-student-in-packaging-logistics)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, supply-chain
+- **Status:** scraped
+
+### Data Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159596465-data-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000159596465-data-engineer)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
+
+### Project Manager Officer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159581609-project-manager-officer](https://jobs.smartrecruiters.com/BoschGroup/744000159581609-project-manager-officer)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, manufacturing
+- **Status:** scraped
+
+### Mechanical Designer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159470879-mechanical-designer](https://jobs.smartrecruiters.com/BoschGroup/744000159470879-mechanical-designer)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, manufacturing
+- **Status:** scraped
 
 ### Azure Cloud Developer with Python
 
@@ -128,14 +160,6 @@ _Generated: 2026-11-03T13:56:11.699Z_
 - **Tags:** mechanical-industrial-engineering, engineering
 - **Status:** scraped
 
-### Data Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158004579-data-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000158004579-data-engineer)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
 ### Working Student UI/UX Design for Connected Services
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157985180-working-student-uiux-design-for-connected-services](https://jobs.smartrecruiters.com/BoschGroup/744000157985180-working-student-uiux-design-for-connected-services)
@@ -150,14 +174,6 @@ _Generated: 2026-11-03T13:56:11.699Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** automotive, production
-- **Status:** scraped
-
-### Working Student in Sales Planning
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157805495-working-student-in-sales-planning](https://jobs.smartrecruiters.com/BoschGroup/744000157805495-working-student-in-sales-planning)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
 - **Status:** scraped
 
 ### Regional Network & Peering Engineer
@@ -462,14 +478,6 @@ _Generated: 2026-11-03T13:56:11.699Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** automotive, engineering
-- **Status:** scraped
-
-### Software Test Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000151771625-software-test-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000151771625-software-test-engineer)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, information-technology
 - **Status:** scraped
 
 ### SAP Cutover Manager
