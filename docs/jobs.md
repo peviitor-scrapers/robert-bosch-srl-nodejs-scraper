@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-04 |
+| Last Scraped | 2026-11-05 |
 
-## Current Job Listings (82)
+## Current Job Listings (86)
 
-_Generated: 2026-11-04T14:08:42.950Z_
+_Generated: 2026-11-05T14:25:39.747Z_
+
+### Working Student 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159864564-working-student](https://jobs.smartrecruiters.com/BoschGroup/744000159864564-working-student)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, finance
+- **Status:** scraped
+
+### Working Student in Sales Planning
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159866011-working-student-in-sales-planning](https://jobs.smartrecruiters.com/BoschGroup/744000159866011-working-student-in-sales-planning)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
+
+### Working student Deep Learning & Data Science  
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159660181-working-student-deep-learning-data-science](https://jobs.smartrecruiters.com/BoschGroup/744000159660181-working-student-deep-learning-data-science)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** mechanical-industrial-engineering, engineering
+- **Status:** scraped
+
+### Working Student Embedded ADAS Software
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159657425-working-student-embedded-adas-software](https://jobs.smartrecruiters.com/BoschGroup/744000159657425-working-student-embedded-adas-software)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** mechanical-industrial-engineering, engineering
+- **Status:** scraped
 
 ### Working Student in Packaging Logistics
 
