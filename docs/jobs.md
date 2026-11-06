@@ -10,11 +10,59 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-05 |
+| Last Scraped | 2026-11-06 |
 
-## Current Job Listings (86)
+## Current Job Listings (92)
 
-_Generated: 2026-11-05T14:25:39.747Z_
+_Generated: 2026-11-06T14:02:03.579Z_
+
+### SAP P2S rollout consultant
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160198265-sap-p2s-rollout-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000160198265-sap-p2s-rollout-consultant)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, consulting
+- **Status:** scraped
+
+### Manufacturing Technician 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160151731-manufacturing-technician](https://jobs.smartrecruiters.com/BoschGroup/744000160151731-manufacturing-technician)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, manufacturing
+- **Status:** scraped
+
+### Working Student - Accounts Receivable with German
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160152929-working-student-accounts-receivable-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000160152929-working-student-accounts-receivable-with-german)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, accounting/auditing
+- **Status:** scraped
+
+### Working Student - Asset Accountant with German
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160130880-working-student-asset-accountant-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000160130880-working-student-asset-accountant-with-german)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, accounting/auditing
+- **Status:** scraped
+
+### Customer Support Representative with German
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160129644-customer-support-representative-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000160129644-customer-support-representative-with-german)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** public-relations, customer-service
+- **Status:** scraped
+
+### Working Student - Accounts Payable
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160124353-working-student-accounts-payable](https://jobs.smartrecruiters.com/BoschGroup/744000160124353-working-student-accounts-payable)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, accounting/auditing
+- **Status:** scraped
 
 ### Working Student 
 
