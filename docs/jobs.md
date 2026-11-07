@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-06 |
+| Last Scraped | 2026-11-07 |
 
-## Current Job Listings (92)
+## Current Job Listings (91)
 
-_Generated: 2026-11-06T14:02:03.579Z_
+_Generated: 2026-11-07T12:45:35.778Z_
+
+### Data Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160210569-data-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000160210569-data-engineer)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, manufacturing
+- **Status:** scraped
 
 ### SAP P2S rollout consultant
 
@@ -275,14 +283,6 @@ _Generated: 2026-11-06T14:02:03.579Z_
 ### SAP S/4 HANA Authorization Consultant
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157429695-sap-s4-hana-authorization-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000157429695-sap-s4-hana-authorization-consultant)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, consulting
-- **Status:** scraped
-
-### SAP Production Planning Consultant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157425234-sap-production-planning-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000157425234-sap-production-planning-consultant)
 - **Work Mode:** remote
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, consulting
@@ -549,14 +549,6 @@ _Generated: 2026-11-06T14:02:03.579Z_
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152910009-intermediate-data-scientist-for-e-mobility-cloud-solutions](https://jobs.smartrecruiters.com/BoschGroup/744000152910009-intermediate-data-scientist-for-e-mobility-cloud-solutions)
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
-- **Tags:** automotive, engineering
-- **Status:** scraped
-
-### Working Student Electrical Calibration
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000152220817-working-student-electrical-calibration](https://jobs.smartrecruiters.com/BoschGroup/744000152220817-working-student-electrical-calibration)
-- **Work Mode:** on-site
-- **Location:** România
 - **Tags:** automotive, engineering
 - **Status:** scraped
 
