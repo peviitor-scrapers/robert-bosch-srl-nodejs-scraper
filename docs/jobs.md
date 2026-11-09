@@ -10,11 +10,75 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-08 |
+| Last Scraped | 2026-11-09 |
 
-## Current Job Listings (91)
+## Current Job Listings (97)
 
-_Generated: 2026-11-08T13:04:07.071Z_
+_Generated: 2026-11-09T15:48:17.856Z_
+
+### Project Management Associate
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160642349-project-management-associate](https://jobs.smartrecruiters.com/BoschGroup/744000160642349-project-management-associate)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, project-management
+- **Status:** scraped
+
+### Series Change Manager
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160628969-series-change-manager](https://jobs.smartrecruiters.com/BoschGroup/744000160628969-series-change-manager)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, engineering
+- **Status:** scraped
+
+### Robot Programmer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160593355-robot-programmer](https://jobs.smartrecruiters.com/BoschGroup/744000160593355-robot-programmer)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, engineering
+- **Status:** scraped
+
+### Working Student 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160583440-working-student](https://jobs.smartrecruiters.com/BoschGroup/744000160583440-working-student)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, finance
+- **Status:** scraped
+
+### Working Student Laboratory Support (Electronics Testing)
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing](https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, quality-assurance
+- **Status:** scraped
+
+### Working Student Digitalization for Logistics
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160547899-working-student-digitalization-for-logistics](https://jobs.smartrecruiters.com/BoschGroup/744000160547899-working-student-digitalization-for-logistics)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, supply-chain
+- **Status:** scraped
+
+### Executive Team Assistant
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160547729-executive-team-assistant](https://jobs.smartrecruiters.com/BoschGroup/744000160547729-executive-team-assistant)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, administrative
+- **Status:** scraped
+
+### SAP O2C Functional Consultant
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160543114-sap-o2c-functional-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000160543114-sap-o2c-functional-consultant)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, consulting
+- **Status:** scraped
 
 ### Data Engineer
 
@@ -70,14 +134,6 @@ _Generated: 2026-11-08T13:04:07.071Z_
 - **Work Mode:** hybrid
 - **Location:** Timișoara
 - **Tags:** financial-services, accounting/auditing
-- **Status:** scraped
-
-### Working Student 
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159864564-working-student](https://jobs.smartrecruiters.com/BoschGroup/744000159864564-working-student)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** financial-services, finance
 - **Status:** scraped
 
 ### Working Student in Sales Planning
@@ -355,14 +411,6 @@ _Generated: 2026-11-08T13:04:07.071Z_
 ### Working Student in Manufacturing Engineering Support
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156335389-working-student-in-manufacturing-engineering-support](https://jobs.smartrecruiters.com/BoschGroup/744000156335389-working-student-in-manufacturing-engineering-support)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** electrical-and-electronic-manufacturing, engineering
-- **Status:** scraped
-
-### Working Student - Waste Management
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management](https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management)
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** electrical-and-electronic-manufacturing, engineering
