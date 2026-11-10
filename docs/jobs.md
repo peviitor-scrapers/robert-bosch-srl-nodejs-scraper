@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-09 |
+| Last Scraped | 2026-11-10 |
 
-## Current Job Listings (97)
+## Current Job Listings (96)
 
-_Generated: 2026-11-09T15:48:17.856Z_
+_Generated: 2026-11-10T14:39:30.856Z_
+
+### Electronics Hardware Design Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160808355-electronics-hardware-design-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000160808355-electronics-hardware-design-engineer)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, engineering
+- **Status:** scraped
 
 ### Project Management Associate
 
@@ -456,14 +464,6 @@ _Generated: 2026-11-09T15:48:17.856Z_
 - **Tags:** information-technology-and-services, consulting
 - **Status:** scraped
 
-### Electronics Hardware Design Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155927730-electronics-hardware-design-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000155927730-electronics-hardware-design-engineer)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, engineering
-- **Status:** scraped
-
 ### Senior Cloud Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155762465-senior-cloud-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000155762465-senior-cloud-engineer)
@@ -702,14 +702,6 @@ _Generated: 2026-11-09T15:48:17.856Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
-### SAP D2M and MDM-MAT Technical Consultant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000145900360-sap-d2m-and-mdm-mat-technical-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000145900360-sap-d2m-and-mdm-mat-technical-consultant)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, consulting
 - **Status:** scraped
 
 ### Working Student for Transport & Cleaning
