@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-10 |
+| Last Scraped | 2026-11-11 |
 
-## Current Job Listings (96)
+## Current Job Listings (93)
 
-_Generated: 2026-11-10T14:39:30.856Z_
+_Generated: 2026-11-11T13:55:02.561Z_
+
+### Project Management Associate
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161085289-project-management-associate](https://jobs.smartrecruiters.com/BoschGroup/744000161085289-project-management-associate)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, project-management
+- **Status:** scraped
+
+### Sample Management Expert with French
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161084350-sample-management-expert-with-french](https://jobs.smartrecruiters.com/BoschGroup/744000161084350-sample-management-expert-with-french)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
+
+### Sample Management Expert with German
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161084219-sample-management-expert-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000161084219-sample-management-expert-with-german)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
+
+### DevOps Team Leader
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160898681-devops-team-leader](https://jobs.smartrecruiters.com/BoschGroup/744000160898681-devops-team-leader)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
 
 ### Electronics Hardware Design Engineer
 
@@ -22,14 +54,6 @@ _Generated: 2026-11-10T14:39:30.856Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** automotive, engineering
-- **Status:** scraped
-
-### Project Management Associate
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160642349-project-management-associate](https://jobs.smartrecruiters.com/BoschGroup/744000160642349-project-management-associate)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, project-management
 - **Status:** scraped
 
 ### Series Change Manager
@@ -142,14 +166,6 @@ _Generated: 2026-11-10T14:39:30.856Z_
 - **Work Mode:** hybrid
 - **Location:** Timișoara
 - **Tags:** financial-services, accounting/auditing
-- **Status:** scraped
-
-### Working Student in Sales Planning
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159866011-working-student-in-sales-planning](https://jobs.smartrecruiters.com/BoschGroup/744000159866011-working-student-in-sales-planning)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
 - **Status:** scraped
 
 ### Working student Deep Learning & Data Science  
@@ -312,14 +328,6 @@ _Generated: 2026-11-10T14:39:30.856Z_
 - **Tags:** mechanical-industrial-engineering, engineering
 - **Status:** scraped
 
-### Working Student UI/UX Design for Connected Services
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157985180-working-student-uiux-design-for-connected-services](https://jobs.smartrecruiters.com/BoschGroup/744000157985180-working-student-uiux-design-for-connected-services)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, information-technology
-- **Status:** scraped
-
 ### Working Student in Product Planning Team
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157967018-working-student-in-product-planning-team](https://jobs.smartrecruiters.com/BoschGroup/744000157967018-working-student-in-product-planning-team)
@@ -376,14 +384,6 @@ _Generated: 2026-11-10T14:39:30.856Z_
 - **Tags:** automotive, finance
 - **Status:** scraped
 
-### Sample Management Expert with German
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157063050-sample-management-expert-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000157063050-sample-management-expert-with-german)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
-- **Status:** scraped
-
 ###  IT Help Desk Consultant 1st level with German 
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156804059-it-help-desk-consultant-1st-level-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000156804059-it-help-desk-consultant-1st-level-with-german)
@@ -430,14 +430,6 @@ _Generated: 2026-11-10T14:39:30.856Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### Sample Management Expert with French
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155971385-sample-management-expert-with-french](https://jobs.smartrecruiters.com/BoschGroup/744000155971385-sample-management-expert-with-french)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
 - **Status:** scraped
 
 ### Senior DevOps Engineer 
@@ -664,14 +656,6 @@ _Generated: 2026-11-10T14:39:30.856Z_
 - **Tags:** mechanical-industrial-engineering, engineering
 - **Status:** scraped
 
-### Intermediate Low Code Developer
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000148948920-intermediate-low-code-developer](https://jobs.smartrecruiters.com/BoschGroup/744000148948920-intermediate-low-code-developer)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** computer-software, information-technology
-- **Status:** scraped
-
 ### Senior Mechatronic Design Engineer – Semiconductor Automation
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000148739699-senior-mechatronic-design-engineer-semiconductor-automation](https://jobs.smartrecruiters.com/BoschGroup/744000148739699-senior-mechatronic-design-engineer-semiconductor-automation)
@@ -748,14 +732,6 @@ _Generated: 2026-11-10T14:39:30.856Z_
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000138135258-devops-engineer-senior](https://jobs.smartrecruiters.com/BoschGroup/744000138135258-devops-engineer-senior)
 - **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### DevOps Team Leader
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000134201369-devops-team-leader](https://jobs.smartrecruiters.com/BoschGroup/744000134201369-devops-team-leader)
-- **Work Mode:** hybrid
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
