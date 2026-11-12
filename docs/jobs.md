@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-11 |
+| Last Scraped | 2026-11-12 |
 
-## Current Job Listings (93)
+## Current Job Listings (91)
 
-_Generated: 2026-11-11T13:55:02.561Z_
+_Generated: 2026-11-12T14:56:00.994Z_
+
+### Electronics Hardware Design Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161316379-electronics-hardware-design-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000161316379-electronics-hardware-design-engineer)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, engineering
+- **Status:** scraped
+
+### Full-Stack Developer Senior
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161229649-full-stack-developer-senior](https://jobs.smartrecruiters.com/BoschGroup/744000161229649-full-stack-developer-senior)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
+
+### Working Student in Sales Planning
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning](https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
 
 ### Project Management Associate
 
@@ -46,22 +70,6 @@ _Generated: 2026-11-11T13:55:02.561Z_
 - **Work Mode:** hybrid
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### Electronics Hardware Design Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160808355-electronics-hardware-design-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000160808355-electronics-hardware-design-engineer)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, engineering
-- **Status:** scraped
-
-### Series Change Manager
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160628969-series-change-manager](https://jobs.smartrecruiters.com/BoschGroup/744000160628969-series-change-manager)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, engineering
 - **Status:** scraped
 
 ### Robot Programmer
@@ -368,14 +376,6 @@ _Generated: 2026-11-11T13:55:02.561Z_
 - **Tags:** automotive, supply-chain
 - **Status:** scraped
 
-### Working Student Logistics Planning 
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157154389-working-student-logistics-planning](https://jobs.smartrecruiters.com/BoschGroup/744000157154389-working-student-logistics-planning)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, supply-chain
-- **Status:** scraped
-
 ### Working Student Product Controlling
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157150270-working-student-product-controlling](https://jobs.smartrecruiters.com/BoschGroup/744000157150270-working-student-product-controlling)
@@ -390,14 +390,6 @@ _Generated: 2026-11-11T13:55:02.561Z_
 - **Work Mode:** on-site
 - **Location:** Timișoara
 - **Tags:** computer-and-network-security, information-technology
-- **Status:** scraped
-
-### Full-Stack Developer Senior
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156784194-full-stack-developer-senior](https://jobs.smartrecruiters.com/BoschGroup/744000156784194-full-stack-developer-senior)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
 ### Embedded Software Engineer – ADAS Functions Realization for Driving
@@ -422,14 +414,6 @@ _Generated: 2026-11-11T13:55:02.561Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** electrical-and-electronic-manufacturing, engineering
-- **Status:** scraped
-
-### Working Student in Embedded Software Development - High Level
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156289169-working-student-in-embedded-software-development-high-level](https://jobs.smartrecruiters.com/BoschGroup/744000156289169-working-student-in-embedded-software-development-high-level)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
 ### Senior DevOps Engineer 
