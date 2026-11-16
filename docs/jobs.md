@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-15 |
+| Last Scraped | 2026-11-16 |
 
-## Current Job Listings (94)
+## Current Job Listings (91)
 
-_Generated: 2026-11-15T13:45:27.218Z_
+_Generated: 2026-11-16T15:23:16.480Z_
+
+### Working Student -  S/4 Master Data Rollouts
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161771380-working-student-s4-master-data-rollouts](https://jobs.smartrecruiters.com/BoschGroup/744000161771380-working-student-s4-master-data-rollouts)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, business-development
+- **Status:** scraped
 
 ### Network Security Engineer
 
@@ -78,14 +86,6 @@ _Generated: 2026-11-15T13:45:27.218Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** automotive, sales
-- **Status:** scraped
-
-### Project Management Associate
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161085289-project-management-associate](https://jobs.smartrecruiters.com/BoschGroup/744000161085289-project-management-associate)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, project-management
 - **Status:** scraped
 
 ### Sample Management Expert with French
@@ -336,14 +336,6 @@ _Generated: 2026-11-15T13:45:27.218Z_
 - **Tags:** financial-services, business-development
 - **Status:** scraped
 
-### SAP IT Functional Consultant in Logistic Area
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158499546-sap-it-functional-consultant-in-logistic-area](https://jobs.smartrecruiters.com/BoschGroup/744000158499546-sap-it-functional-consultant-in-logistic-area)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, consulting
-- **Status:** scraped
-
 ### Senior Learning & Development Business Partner
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158498089-senior-learning-development-business-partner](https://jobs.smartrecruiters.com/BoschGroup/744000158498089-senior-learning-development-business-partner)
@@ -358,14 +350,6 @@ _Generated: 2026-11-15T13:45:27.218Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
-### Working Student in Product Planning Team
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157967018-working-student-in-product-planning-team](https://jobs.smartrecruiters.com/BoschGroup/744000157967018-working-student-in-product-planning-team)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, production
 - **Status:** scraped
 
 ### Regional Network & Peering Engineer
@@ -622,14 +606,6 @@ _Generated: 2026-11-15T13:45:27.218Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** electrical-and-electronic-manufacturing, engineering
-- **Status:** scraped
-
-### AI & Automation Technical Consultant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000150673359-ai-automation-technical-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000150673359-ai-automation-technical-consultant)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** financial-services, business-development
 - **Status:** scraped
 
 ### Working Student Production IT
