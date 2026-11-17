@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-16 |
+| Last Scraped | 2026-11-17 |
 
 ## Current Job Listings (91)
 
-_Generated: 2026-11-16T15:23:16.480Z_
+_Generated: 2026-11-17T15:46:31.372Z_
+
+### Data Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162031789-data-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000162031789-data-engineer)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** computer-software, engineering
+- **Status:** scraped
+
+### DevOps Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162029129-devops-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000162029129-devops-engineer)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** computer-software, engineering
+- **Status:** scraped
+
+### Working Student - Accounts Receivable 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162025499-working-student-accounts-receivable](https://jobs.smartrecruiters.com/BoschGroup/744000162025499-working-student-accounts-receivable)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, accounting/auditing
+- **Status:** scraped
+
+### Learning and Development Business Partner Senior 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162008147-learning-and-development-business-partner-senior](https://jobs.smartrecruiters.com/BoschGroup/744000162008147-learning-and-development-business-partner-senior)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, human-resources
+- **Status:** scraped
 
 ### Working Student -  S/4 Master Data Rollouts
 
@@ -158,14 +190,6 @@ _Generated: 2026-11-16T15:23:16.480Z_
 - **Work Mode:** remote
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, consulting
-- **Status:** scraped
-
-### Data Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160210569-data-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000160210569-data-engineer)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** automotive, manufacturing
 - **Status:** scraped
 
 ### SAP P2S rollout consultant
@@ -336,14 +360,6 @@ _Generated: 2026-11-16T15:23:16.480Z_
 - **Tags:** financial-services, business-development
 - **Status:** scraped
 
-### Senior Learning & Development Business Partner
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158498089-senior-learning-development-business-partner](https://jobs.smartrecruiters.com/BoschGroup/744000158498089-senior-learning-development-business-partner)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** automotive, human-resources
-- **Status:** scraped
-
 ### Working Student - Production Digitalization 
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158482969-working-student-production-digitalization](https://jobs.smartrecruiters.com/BoschGroup/744000158482969-working-student-production-digitalization)
@@ -363,14 +379,6 @@ _Generated: 2026-11-16T15:23:16.480Z_
 ### Network Infrastructure & Routing Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157459840-network-infrastructure-routing-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000157459840-network-infrastructure-routing-engineer)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, consulting
-- **Status:** scraped
-
-### SAP S/4 HANA Authorization Consultant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157429695-sap-s4-hana-authorization-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000157429695-sap-s4-hana-authorization-consultant)
 - **Work Mode:** remote
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, consulting
@@ -702,14 +710,6 @@ _Generated: 2026-11-16T15:23:16.480Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** automotive, information-technology
-- **Status:** scraped
-
-### SAP Manufacturing To Supply Consultant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000138567700-sap-manufacturing-to-supply-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000138567700-sap-manufacturing-to-supply-consultant)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, consulting
 - **Status:** scraped
 
 ### DevOps Engineer Senior
