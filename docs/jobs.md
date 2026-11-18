@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-17 |
+| Last Scraped | 2026-11-18 |
 
-## Current Job Listings (91)
+## Current Job Listings (89)
 
-_Generated: 2026-11-17T15:46:31.372Z_
+_Generated: 2026-11-18T15:26:57.441Z_
+
+### Scholarship in AI for PhD Students
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162224329-scholarship-in-ai-for-phd-students](https://jobs.smartrecruiters.com/BoschGroup/744000162224329-scholarship-in-ai-for-phd-students)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, administrative
+- **Status:** scraped
 
 ### Data Engineer
 
@@ -176,14 +184,6 @@ _Generated: 2026-11-17T15:46:31.372Z_
 - **Tags:** mechanical-industrial-engineering, supply-chain
 - **Status:** scraped
 
-### Executive Team Assistant
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160547729-executive-team-assistant](https://jobs.smartrecruiters.com/BoschGroup/744000160547729-executive-team-assistant)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, administrative
-- **Status:** scraped
-
 ### SAP O2C Functional Consultant
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000160543114-sap-o2c-functional-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000160543114-sap-o2c-functional-consultant)
@@ -302,14 +302,6 @@ _Generated: 2026-11-17T15:46:31.372Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** automotive, production
-- **Status:** scraped
-
-### Working Student - Travel and Expense
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158733499-working-student-travel-and-expense](https://jobs.smartrecruiters.com/BoschGroup/744000158733499-working-student-travel-and-expense)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** financial-services, administrative
 - **Status:** scraped
 
 ### Working Student - Accounts Payable
@@ -494,14 +486,6 @@ _Generated: 2026-11-17T15:46:31.372Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
-### Working Student in Logistics & Reporting Support
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155425514-working-student-in-logistics-reporting-support](https://jobs.smartrecruiters.com/BoschGroup/744000155425514-working-student-in-logistics-reporting-support)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, supply-chain
 - **Status:** scraped
 
 ### Mecanic
