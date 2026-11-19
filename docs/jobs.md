@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-18 |
+| Last Scraped | 2026-11-19 |
 
-## Current Job Listings (89)
+## Current Job Listings (88)
 
-_Generated: 2026-11-18T15:26:57.441Z_
+_Generated: 2026-11-19T15:32:08.048Z_
+
+### Working Student - Production Maintenance
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162476972-working-student-production-maintenance](https://jobs.smartrecruiters.com/BoschGroup/744000162476972-working-student-production-maintenance)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, production
+- **Status:** scraped
+
+### Working Student - Manufacturing Operations
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162475139-working-student-manufacturing-operations](https://jobs.smartrecruiters.com/BoschGroup/744000162475139-working-student-manufacturing-operations)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, production
+- **Status:** scraped
+
+### Working Student in Planning Team
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162467170-working-student-in-planning-team](https://jobs.smartrecruiters.com/BoschGroup/744000162467170-working-student-in-planning-team)
+- **Work Mode:** on-site
+- **Location:** România
+- **Tags:** automotive, manufacturing
+- **Status:** scraped
+
+### IT Operations and Security Management
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162451729-it-operations-and-security-management](https://jobs.smartrecruiters.com/BoschGroup/744000162451729-it-operations-and-security-management)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, consulting
+- **Status:** scraped
 
 ### Scholarship in AI for PhD Students
 
@@ -72,14 +104,6 @@ _Generated: 2026-11-18T15:26:57.441Z_
 - **Tags:** information-technology-and-services, consulting
 - **Status:** scraped
 
-### Security Officer for IT Operations and Security Management
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161457955-security-officer-for-it-operations-and-security-management](https://jobs.smartrecruiters.com/BoschGroup/744000161457955-security-officer-for-it-operations-and-security-management)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, consulting
-- **Status:** scraped
-
 ### Electronics Development Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161446909-electronics-development-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000161446909-electronics-development-engineer)
@@ -123,14 +147,6 @@ _Generated: 2026-11-18T15:26:57.441Z_
 ### Working Student in Sales Planning
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning](https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
-- **Status:** scraped
-
-### Sample Management Expert with French
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161084350-sample-management-expert-with-french](https://jobs.smartrecruiters.com/BoschGroup/744000161084350-sample-management-expert-with-french)
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** automotive, sales
@@ -376,14 +392,6 @@ _Generated: 2026-11-18T15:26:57.441Z_
 - **Tags:** information-technology-and-services, consulting
 - **Status:** scraped
 
-### Working Student Logistics Controlling
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157406719-working-student-logistics-controlling](https://jobs.smartrecruiters.com/BoschGroup/744000157406719-working-student-logistics-controlling)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, supply-chain
-- **Status:** scraped
-
 ### Working Student Product Controlling
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000157150270-working-student-product-controlling](https://jobs.smartrecruiters.com/BoschGroup/744000157150270-working-student-product-controlling)
@@ -406,14 +414,6 @@ _Generated: 2026-11-18T15:26:57.441Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### Logistics Innovation Coordinator
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000156507171-logistics-innovation-coordinator](https://jobs.smartrecruiters.com/BoschGroup/744000156507171-logistics-innovation-coordinator)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, supply-chain
 - **Status:** scraped
 
 ### Working Student in Manufacturing Engineering Support
@@ -622,14 +622,6 @@ _Generated: 2026-11-18T15:26:57.441Z_
 - **Work Mode:** remote
 - **Location:** Timișoara
 - **Tags:** computer-software, information-technology
-- **Status:** scraped
-
-### Purchasing Project Manager
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000149312909-purchasing-project-manager](https://jobs.smartrecruiters.com/BoschGroup/744000149312909-purchasing-project-manager)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, engineering
 - **Status:** scraped
 
 ### Senior Mechatronic Design Engineer – Semiconductor Automation
