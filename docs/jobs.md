@@ -10,11 +10,51 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
-## Current Job Listings (88)
+## Current Job Listings (90)
 
-_Generated: 2026-11-19T15:32:08.048Z_
+_Generated: 2026-11-20T15:11:43.890Z_
+
+### Electronics Hardware Design Engineer
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162715589-electronics-hardware-design-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000162715589-electronics-hardware-design-engineer)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, engineering
+- **Status:** scraped
+
+### Working Student – Technical Project Administration
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration](https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, project-management
+- **Status:** scraped
+
+### Scholarship in AI for PhD Students
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162664020-scholarship-in-ai-for-phd-students](https://jobs.smartrecruiters.com/BoschGroup/744000162664020-scholarship-in-ai-for-phd-students)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, administrative
+- **Status:** scraped
+
+### Working Student Claims Management 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162663639-working-student-claims-management](https://jobs.smartrecruiters.com/BoschGroup/744000162663639-working-student-claims-management)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, administrative
+- **Status:** scraped
+
+### Working Student Production Controlling
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162663049-working-student-production-controlling](https://jobs.smartrecruiters.com/BoschGroup/744000162663049-working-student-production-controlling)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** automotive, finance
+- **Status:** scraped
 
 ### Working Student - Production Maintenance
 
@@ -46,14 +86,6 @@ _Generated: 2026-11-19T15:32:08.048Z_
 - **Work Mode:** remote
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, consulting
-- **Status:** scraped
-
-### Scholarship in AI for PhD Students
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162224329-scholarship-in-ai-for-phd-students](https://jobs.smartrecruiters.com/BoschGroup/744000162224329-scholarship-in-ai-for-phd-students)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, administrative
 - **Status:** scraped
 
 ### Data Engineer
@@ -126,14 +158,6 @@ _Generated: 2026-11-19T15:32:08.048Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
-### Electronics Hardware Design Engineer
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161316379-electronics-hardware-design-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000161316379-electronics-hardware-design-engineer)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, engineering
 - **Status:** scraped
 
 ### Full-Stack Developer Senior
@@ -638,14 +662,6 @@ _Generated: 2026-11-19T15:32:08.048Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** automotive, engineering
-- **Status:** scraped
-
-### Working Student - Physical Logistics 
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000146461779-working-student-physical-logistics](https://jobs.smartrecruiters.com/BoschGroup/744000146461779-working-student-physical-logistics)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, supply-chain
 - **Status:** scraped
 
 ### Senior Product Design Engineer 
