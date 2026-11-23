@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-22 |
+| Last Scraped | 2026-11-23 |
 
-## Current Job Listings (90)
+## Current Job Listings (89)
 
-_Generated: 2026-11-22T14:23:45.966Z_
+_Generated: 2026-11-23T17:47:51.139Z_
+
+### Reporting Specialist
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163168802-reporting-specialist](https://jobs.smartrecruiters.com/BoschGroup/744000163168802-reporting-specialist)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, administrative
+- **Status:** scraped
+
+### Security Officer 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163168454-security-officer](https://jobs.smartrecruiters.com/BoschGroup/744000163168454-security-officer)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, consulting
+- **Status:** scraped
+
+### Full Stack Developer Senior- Manufacturing Co-intelligence
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163168614-full-stack-developer-senior-manufacturing-co-intelligence](https://jobs.smartrecruiters.com/BoschGroup/744000163168614-full-stack-developer-senior-manufacturing-co-intelligence)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
 
 ### Electronics Hardware Design Engineer
 
@@ -78,14 +102,6 @@ _Generated: 2026-11-22T14:23:45.966Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** automotive, manufacturing
-- **Status:** scraped
-
-### IT Operations and Security Management
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162451729-it-operations-and-security-management](https://jobs.smartrecruiters.com/BoschGroup/744000162451729-it-operations-and-security-management)
-- **Work Mode:** remote
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, consulting
 - **Status:** scraped
 
 ### Data Engineer
@@ -171,14 +187,6 @@ _Generated: 2026-11-22T14:23:45.966Z_
 ### Working Student in Sales Planning
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning](https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
-- **Status:** scraped
-
-### Sample Management Expert with German
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161084219-sample-management-expert-with-german](https://jobs.smartrecruiters.com/BoschGroup/744000161084219-sample-management-expert-with-german)
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** automotive, sales
@@ -326,14 +334,6 @@ _Generated: 2026-11-22T14:23:45.966Z_
 - **Work Mode:** remote
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### Working Student IT Support
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159096995-working-student-it-support](https://jobs.smartrecruiters.com/BoschGroup/744000159096995-working-student-it-support)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** mechanical-industrial-engineering, information-technology
 - **Status:** scraped
 
 ### Working Student Support for Production
@@ -710,14 +710,6 @@ _Generated: 2026-11-22T14:23:45.966Z_
 - **Work Mode:** remote
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### Working Student in Controlling Area
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000133017020-working-student-in-controlling-area](https://jobs.smartrecruiters.com/BoschGroup/744000133017020-working-student-in-controlling-area)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** logistics-and-supply-chain, supply-chain
 - **Status:** scraped
 
 ### Working Student – Manufacturing Engineering Support
