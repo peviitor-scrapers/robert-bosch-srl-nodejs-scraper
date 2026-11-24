@@ -10,11 +10,35 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
 ## Current Job Listings (89)
 
-_Generated: 2026-11-23T17:47:51.139Z_
+_Generated: 2026-11-24T17:21:07.292Z_
+
+### Conversational AI Consultant
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163414700-conversational-ai-consultant](https://jobs.smartrecruiters.com/BoschGroup/744000163414700-conversational-ai-consultant)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** computer-software, information-technology
+- **Status:** scraped
+
+### Full Stack Developer Senior- Backend Focus
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163411024-full-stack-developer-senior-backend-focus](https://jobs.smartrecruiters.com/BoschGroup/744000163411024-full-stack-developer-senior-backend-focus)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** information-technology-and-services, information-technology
+- **Status:** scraped
+
+### Senior Product Manager CRM as a Service 
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163408869-senior-product-manager-crm-as-a-service](https://jobs.smartrecruiters.com/BoschGroup/744000163408869-senior-product-manager-crm-as-a-service)
+- **Work Mode:** remote
+- **Location:** Timișoara
+- **Tags:** computer-software, information-technology
+- **Status:** scraped
 
 ### Reporting Specialist
 
@@ -30,14 +54,6 @@ _Generated: 2026-11-23T17:47:51.139Z_
 - **Work Mode:** remote
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, consulting
-- **Status:** scraped
-
-### Full Stack Developer Senior- Manufacturing Co-intelligence
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163168614-full-stack-developer-senior-manufacturing-co-intelligence](https://jobs.smartrecruiters.com/BoschGroup/744000163168614-full-stack-developer-senior-manufacturing-co-intelligence)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** information-technology-and-services, information-technology
 - **Status:** scraped
 
 ### Electronics Hardware Design Engineer
@@ -288,14 +304,6 @@ _Generated: 2026-11-23T17:47:51.139Z_
 - **Tags:** financial-services, accounting/auditing
 - **Status:** scraped
 
-### Working Student in Packaging Logistics
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159634506-working-student-in-packaging-logistics](https://jobs.smartrecruiters.com/BoschGroup/744000159634506-working-student-in-packaging-logistics)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** automotive, supply-chain
-- **Status:** scraped
-
 ### Data Engineer
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000159596465-data-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000159596465-data-engineer)
@@ -382,14 +390,6 @@ _Generated: 2026-11-23T17:47:51.139Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** automotive, manufacturing
-- **Status:** scraped
-
-### Working Student - IT Tools Support & Admin
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000158677639-working-student-it-tools-support-admin](https://jobs.smartrecruiters.com/BoschGroup/744000158677639-working-student-it-tools-support-admin)
-- **Work Mode:** hybrid
-- **Location:** Timișoara
-- **Tags:** financial-services, business-development
 - **Status:** scraped
 
 ### Working Student - Production Digitalization 
