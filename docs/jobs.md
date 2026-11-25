@@ -10,11 +10,43 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
-## Current Job Listings (89)
+## Current Job Listings (91)
 
-_Generated: 2026-11-24T17:21:07.292Z_
+_Generated: 2026-11-25T17:00:02.314Z_
+
+### Senior Controller in Customer Team
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163697129-senior-controller-in-customer-team](https://jobs.smartrecruiters.com/BoschGroup/744000163697129-senior-controller-in-customer-team)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
+
+### Controller in Customer Team
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163694600-controller-in-customer-team](https://jobs.smartrecruiters.com/BoschGroup/744000163694600-controller-in-customer-team)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
+
+### Working Student - Paralegal
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163692859-working-student-paralegal](https://jobs.smartrecruiters.com/BoschGroup/744000163692859-working-student-paralegal)
+- **Work Mode:** hybrid
+- **Location:** București
+- **Tags:** mechanical-industrial-engineering, legal
+- **Status:** scraped
+
+### Junior Managers Program | Controlling Area Timisoara
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163653151-junior-managers-program-controlling-area-timisoara](https://jobs.smartrecruiters.com/BoschGroup/744000163653151-junior-managers-program-controlling-area-timisoara)
+- **Work Mode:** hybrid
+- **Location:** Timișoara
+- **Tags:** financial-services, project-management
+- **Status:** scraped
 
 ### Conversational AI Consultant
 
@@ -110,14 +142,6 @@ _Generated: 2026-11-24T17:21:07.292Z_
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** automotive, production
-- **Status:** scraped
-
-### Working Student in Planning Team
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000162467170-working-student-in-planning-team](https://jobs.smartrecruiters.com/BoschGroup/744000162467170-working-student-in-planning-team)
-- **Work Mode:** on-site
-- **Location:** România
-- **Tags:** automotive, manufacturing
 - **Status:** scraped
 
 ### Data Engineer
@@ -451,14 +475,6 @@ _Generated: 2026-11-24T17:21:07.292Z_
 ### Senior DevOps Engineer 
 
 - **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155966079-senior-devops-engineer](https://jobs.smartrecruiters.com/BoschGroup/744000155966079-senior-devops-engineer)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** mechanical-industrial-engineering, engineering
-- **Status:** scraped
-
-### Full-stack Developer with AI
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000155962579-full-stack-developer-with-ai](https://jobs.smartrecruiters.com/BoschGroup/744000155962579-full-stack-developer-with-ai)
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** mechanical-industrial-engineering, engineering
