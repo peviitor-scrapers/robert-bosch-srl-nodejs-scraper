@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-25 |
+| Last Scraped | 2026-11-26 |
 
 ## Current Job Listings (91)
 
-_Generated: 2026-11-25T17:00:02.314Z_
+_Generated: 2026-11-26T16:40:48.552Z_
+
+### Purchasing Project Manager
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163845329-purchasing-project-manager](https://jobs.smartrecruiters.com/BoschGroup/744000163845329-purchasing-project-manager)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, engineering
+- **Status:** scraped
 
 ### Senior Controller in Customer Team
 
@@ -222,14 +230,6 @@ _Generated: 2026-11-25T17:00:02.314Z_
 - **Work Mode:** remote
 - **Location:** Timișoara
 - **Tags:** information-technology-and-services, information-technology
-- **Status:** scraped
-
-### Working Student in Sales Planning
-
-- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning](https://jobs.smartrecruiters.com/BoschGroup/744000161107900-working-student-in-sales-planning)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** automotive, sales
 - **Status:** scraped
 
 ### DevOps Team Leader
