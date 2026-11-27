@@ -7,14 +7,30 @@
 | CIF | 5541546 |
 | Brand | Robert Bosch |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR  HORIA MĂCELARIU, NR.30-34 |
+| Location | București |
 | Website | [https://www.bosch.ro](https://www.bosch.ro) |
 | Careers | [https://jobs.smartrecruiters.com/BoschGroup](https://jobs.smartrecruiters.com/BoschGroup) |
-| Last Scraped | 2026-11-26 |
+| Last Scraped | 2026-11-27 |
 
-## Current Job Listings (91)
+## Current Job Listings (93)
 
-_Generated: 2026-11-26T16:40:48.552Z_
+_Generated: 2026-11-27T16:26:58.832Z_
+
+### Working Student in Sales Planning
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000164009949-working-student-in-sales-planning](https://jobs.smartrecruiters.com/BoschGroup/744000164009949-working-student-in-sales-planning)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** automotive, sales
+- **Status:** scraped
+
+### Logistics Planning Team Manager
+
+- **URL:** [https://jobs.smartrecruiters.com/BoschGroup/744000163973229-logistics-planning-team-manager](https://jobs.smartrecruiters.com/BoschGroup/744000163973229-logistics-planning-team-manager)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** mechanical-industrial-engineering, supply-chain
+- **Status:** scraped
 
 ### Purchasing Project Manager
 
